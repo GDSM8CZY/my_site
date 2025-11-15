@@ -8,11 +8,11 @@
     {% for row in grid%}
         <div class="row" id="{{ row[0][0:2] }}">
             {% for cell in row%}
-                <input class="cell" id="{{ cell }}">{{ cell }}</input>
+                <input class="cell" id="{{ cell }}"></input>
             {% endfor %}
         </div>
     {% endfor %}
 </div>
-<button class="btn" onclick="test()">test</button>
+<button class="btn" onclick="check_guess('R0')">test</button>
 <script src="{{ url_for('static', filename='src/NLHS_wordle.js') }}"></script>
 {% endblock %}

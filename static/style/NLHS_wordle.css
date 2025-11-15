@@ -20,7 +20,6 @@
     background-color: rgb(116, 116, 116);
     color: white;
     font-size: 45px;
-    justify-content: center;
-    align-items: center;
     padding: 0px;
+    text-align: center;
 }
