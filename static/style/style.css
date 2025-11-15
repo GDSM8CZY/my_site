@@ -35,11 +35,13 @@ nav {
 
 .btn {
     display: inline-block;
+    width: fit-content;
     padding: 10px 20px;
     background-color: #007BFF;
     color: white;
     border-radius: 5px;
     text-decoration: none;
+    transition: background-color 100ms linear;
 }
 
 .btn:hover {
