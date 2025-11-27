@@ -17,9 +17,10 @@
     outline: 0px;
     border: 2px solid darkgray;
     border-radius: 10px;
-    background-color: rgb(116, 116, 116);
+    background-color: gray;
     color: white;
     font-size: 45px;
     padding: 0px;
     text-align: center;
+    caret-color: transparent;
 }

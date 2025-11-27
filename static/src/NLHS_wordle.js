@@ -9,12 +9,17 @@ fetch("/NLHS_wordle/get_daily_word")
 
 // Function to check the user's guess
 function check_guess() {
-    const row = document.getElementById(row_num);
+    const row = document.getElementById("R" + row_num);
     let guess = "";
     // Construct the guess from the input fields
     for (let i = 0; i < row.children.length; i++) {
         let cell = row.children[i]
         guess += cell.value
+        // If the guess is not full, return early
+        if (cell.value === "") {
+            alert("Please fill in all letters before submitting your guess.");
+            return;
+        }
         cell.disabled = true
     }
     console.log(guess);
@@ -24,9 +29,23 @@ function check_guess() {
         .then(res => res.json())
         .then(data => {
             const result = data.result;
+            for (let i = 0; i < result.length; i++) {
+                let cell = row.children[i]
+                // Update cell color based on the result
+                if (result[i] === "correct") {
+                    cell.style.backgroundColor = "green";
+                } else if (result[i] === "present") {
+                    cell.style.backgroundColor = "yellow";
+                } else {
+                    cell.style.backgroundColor = "gray";
+                }
+            }
             // If the result only contains "correct", the user has guessed the word
             if (result.every(status => status === "correct")) {
                 alert("Congratulations! You guessed the word!");
             }
-            })
+        });
+    
+    // increment row
+    row_num += 1;
 }
