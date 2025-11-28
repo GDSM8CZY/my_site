@@ -33,16 +33,17 @@ function check_guess() {
                 let cell = row.children[i]
                 // Update cell color based on the result
                 if (result[i] === "correct") {
-                    cell.style.backgroundColor = "green";
+                    cell.classList.add("correct");
                 } else if (result[i] === "present") {
-                    cell.style.backgroundColor = "yellow";
+                    cell.classList.add("present");
                 } else {
-                    cell.style.backgroundColor = "gray";
+                    cell.classList.add("absent");
                 }
             }
             // If the result only contains "correct", the user has guessed the word
             if (result.every(status => status === "correct")) {
                 alert("Congratulations! You guessed the word!");
+                let cells_all = document.querySelectorAll("input.cell");
             }
         });
     
