@@ -1,8 +1,14 @@
 import flask
+import pandas as pd
+import random
 
 app = flask.Flask(__name__)
 
-word = "salve"
+# Load the list of words from the CSV file
+df = pd.read_csv("static/data/latin_core_vocabulary_list1.csv", header=None)
+word_list = df[0].tolist()
+
+word = random.choice(word_list)
 
 # Endpoint to serve the home page
 @app.route("/")
