@@ -14,4 +14,5 @@ for tr in soup.find_all('tr')[1:]:
     latin_word = latin_word.replace(",", "")
     # Save latin words with definitions to a csv file
     with open("static/data/latin_core_vocabulary_list1.csv", "a", encoding="utf-8") as f:
-        f.write(f"{latin_word}\n")
+        if len(latin_word) >= 4 and len(latin_word) <= 7:
+            f.write(f"{latin_word}\n")
