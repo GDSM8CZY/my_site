@@ -1,12 +1,14 @@
 import flask
-import pandas as pd
+import csv
 import random
 
 app = flask.Flask(__name__)
 
 # Load the list of words from the CSV file
-df = pd.read_csv("static/data/latin_core_vocabulary_list1.csv", header=None)
-word_list = df[0].tolist()
+word_list = []
+with open("static/data/latin_core_vocabulary_list1.csv", "r", encoding="utf-8") as f:
+    reader = csv.reader(f)
+    word_list = [row[0] for row in reader]
 
 word = random.choice(word_list)
 
