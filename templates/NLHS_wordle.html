@@ -4,6 +4,9 @@
 <link rel="stylesheet" href="{{ url_for('static', filename='style/NLHS_wordle.css') }}">
 {% endblock %}
 {% block content %}
+<div class="text_zone">
+    <p id="deff"></p>
+</div>
 <div id="guesses">
     {% for row in grid%}
         <div class="row" id="{{ row[0][0:2] }}">
@@ -13,6 +16,6 @@
         </div>
     {% endfor %}
 </div>
-<button class="btn" onclick="check_guess('R0')">test</button>
+<button class="btn" onclick="get_guess('R0')">test</button>
 <script src="{{ url_for('static', filename='src/NLHS_wordle.js') }}"></script>
 {% endblock %}

@@ -5,10 +5,17 @@ fetch("/NLHS_wordle/get_daily_word")
     .then(res => res.json())
     .then(data => {
         const word = data.word;
+        let deff = data.deff;
+        
+        // replace the "#" in deff with ","
+        deff = deff.replace(/#/g, ", ");
+        
+        // Set the text for deffinition with the deff variable
+        document.getElementById("deff").innerHTML = "Deffinition: " + deff;
     })
 
 // Function to check the user's guess
-function check_guess() {
+function get_guess() {
     const row = document.getElementById("R" + row_num);
     let guess = "";
     // Construct the guess from the input fields

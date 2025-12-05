@@ -4,13 +4,34 @@ import random
 
 app = flask.Flask(__name__)
 
-# Load the list of words from the CSV file
-word_list = []
-with open("static/data/latin_core_vocabulary_list1.csv", "r", encoding="utf-8") as f:
-    reader = csv.reader(f)
-    word_list = [row[0] for row in reader]
+# pick and decline a random latin word
+def pick_latin_word():
+    # Load the list of words from the CSV file
+    word_dict = {}
+    word_list = []
+    with open("static/data/latin_core_vocabulary_list1.csv", "r", encoding="utf-8") as f:
+        reader = csv.reader(f)
+        for row in reader:
+            word_dict[row[0]] = row[1]
+            word_list.append(row[0])
 
-word = random.choice(word_list)
+    word = random.choice(word_list)
+    deff = word_dict[word]
+
+    # NEED TO FIX
+    if len(word.split()) == 4:
+        print("verb")
+    elif len(word.split()) == 3:
+        print("adjective")
+    elif len(word.split()) == 2:
+        print("noun")
+    else:
+        print("preposition")
+
+    return word.split()[0], word_dict[word]
+
+
+word, deff = pick_latin_word()
 
 # Endpoint to serve the home page
 @app.route("/")
@@ -30,7 +51,12 @@ def NLHS_wordle():
 # Endpoint to get the daily word
 @app.route("/NLHS_wordle/get_daily_word")
 def NLHS_get_daily_word():
-    return {"word": word}
+    print(word)
+    print(deff)
+    return {
+        "deff": deff,
+        "word": word
+        }
 
 # Endpoint to check the user's guess
 @app.route("/NLHS_wordle/check_guess/<guess>")
