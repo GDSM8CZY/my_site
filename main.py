@@ -8,27 +8,19 @@ app = flask.Flask(__name__)
 def pick_latin_word():
     # Load the list of words from the CSV file
     word_dict = {}
-    word_list = []
     with open("static/data/latin_core_vocabulary_list1.csv", "r", encoding="utf-8") as f:
         reader = csv.reader(f)
         for row in reader:
-            word_dict[row[0]] = row[1]
-            word_list.append(row[0])
+            # col 1 is deffinition, col 2 is part of speech
+            word_dict[row[0]] = (row[1], row[2])
+
+        
+    word_list = list(word_dict.keys())
 
     word = random.choice(word_list)
-    deff = word_dict[word]
+    deff = word_dict[word][0]
 
-    # NEED TO FIX
-    if len(word.split()) == 4:
-        print("verb")
-    elif len(word.split()) == 3:
-        print("adjective")
-    elif len(word.split()) == 2:
-        print("noun")
-    else:
-        print("preposition")
-
-    return word.split()[0], word_dict[word]
+    return word.split()[0], deff
 
 
 word, deff = pick_latin_word()
