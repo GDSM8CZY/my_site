@@ -10,6 +10,7 @@ def pick_latin_word():
     word_dict = {}
     with open("static/data/latin_core_vocabulary_list1.csv", "r", encoding="utf-8") as f:
         reader = csv.reader(f)
+        next(reader, None)  # Skip the header row
         for row in reader:
             # col 1 is deffinition, col 2 is part of speech
             word_dict[row[0]] = (row[1], row[2])
