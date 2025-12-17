@@ -19,7 +19,7 @@ def pick_latin_word():
     word_list = list(word_dict.keys())
 
     word = random.choice(word_list)
-    deff = word_dict[word][0]
+    deff = word_dict[word][1] + "; " + word_dict[word][0]
 
     return word.split()[0], deff
 
