@@ -1,24 +1,23 @@
 word, deff, prt_of_speech, usage, frequency_rank 
 a ab abs,from# by (+abl.),Preposition,Place,21
-abeo -ire -ii -itum,go away,Verb: Irregular,Motion,553
+abeo abire abii abitum,go away,Verb: Irregular,Motion,553
 absum abesse afui,be away# absent,Verb: Irregular,Travel,445
 ac,and in addition# and also# and; (after comparatives) than; simul ac# as soon as; → atque,Conjunction,Conjunctions/Adverbs,36
-accedo -cedere -cessi -cessum,approach,Verb: 3rd Conjugation -o,Motion,614
-accido -cidere -cidi,fall; happen,Verb: 3rd Conjugation -o,Motion,799
-accipio -cipere -cepi -ceptum,receive,Verb: 3rd Conjugation -io,Social Life,110
+accedo accedere accedcessi accedcessum,approach,Verb: 3rd Conjugation -o,Motion,614
+accido accidere accidi,fall; happen,Verb: 3rd Conjugation -o,Motion,799
+accipio accipere accipcepi accipceptum,receive,Verb: 3rd Conjugation -io,Social Life,110
 acer acris acre,sharp# piercing,Adjective: 3rd Declension,Other Senses,587
 acies aciei f.,edge; line of battle,Noun: 5th Declension,War and Peace,439
 ad,to# up to# towards (+acc.),Preposition,Place,14
-addo -dere -didi -ditum,give to,Verb: 3rd Conjugation -o,Social Life,433
-adduco -ere -duxi -ductum,lead to# induce,Verb: 3rd Conjugation -o,Verbs of Compelling/Directing,886
-adeo -ire -ii -itum,go to,Verb: Irregular,Motion,595
+addo addere addidi additum,give to,Verb: 3rd Conjugation -o,Social Life,433
+adduco adducere adducduxi adductum,lead to# induce,Verb: 3rd Conjugation -o,Verbs of Compelling/Directing,886
+adeo adire adii aditum,go to,Verb: Irregular,Motion,595
 adeo,(adv.) to such a degree# so,Adverb,Conjunctions/Adverbs,555
-adhibeo -hibere -hibui -hibitum,apply,Verb: 2nd Conjugation,Making/Doing,959
+adhibeo adhibere adhibui adhibitum,apply,Verb: 2nd Conjugation,Making/Doing,959
 adhuc,thus far# to this point,Adverb,Place,379
-advenio -ire -veni -ventum,come to# arrive at,Verb: 4th Conjugation,Travel,987
+advenio advenire adveni adventum,come to# arrive at,Verb: 4th Conjugation,Travel,987
 adversus adversa adversum,facing# opposed; unfavorable,Adjective: 1st and 2nd Declension,War and Peace,657
-adversus (-um),(adv. and prep.) facing# opposite# against# opposed (to),Adverb,War and Peace,460
-adverto -vertere -verti -versum,turn towards,Verb: 3rd Conjugation -o,Motion,986
+adverto advertere adverti advertversum,turn towards,Verb: 3rd Conjugation -o,Motion,986
 aedes aedis f.,building; (pl.) house,Noun: 3rd Declension,The House,965
 aeger aegra aegrum,sick,Adjective: 1st and 2nd Declension,Life and Being,810
 aegre,with difficulty,Adverb,Life and Being,984
@@ -32,16 +31,16 @@ aeternus aeterna aeternum,everlasting# eternal,Adjective: 1st and 2nd Declension
 aether aetheris n.,pure upper air# ether# heaven# sky,Noun: 3rd Declension,Air and Fire,851
 aevum aevi n.,eternity; lifetime# age,Noun: 2nd Declension,Lengths of Time,875
 affero afferre attuli allatum,bring to,Verb: Irregular,Verbs of Transport,514
-afficio -ficere -feci -fectum,affect# visit with (+ abl.),Verb: 3rd Conjugation -io,Social Life,958
+afficio afficere afficfeci afficfectum,affect# visit with (+ abl.),Verb: 3rd Conjugation -io,Social Life,958
 ager agri m.,field,Noun: 2nd Declension,Animals/Plants,324
-agito -are,drive,Verb: 1st Conjugation,Verbs of Compelling/Directing,578
+agito agitare,drive,Verb: 1st Conjugation,Verbs of Compelling/Directing,578
 agmen agmminis n.,line of march,Noun: 3rd Declension,War and Peace,358
 ago agere egi actum,drive# do# act,Verb: 3rd Conjugation -o,Verbs of Compelling/Directing,69
 aio,say# affirm# say yes; ut aiunt: as they say,Verb: Irregular,Speech/Oratory,406
 albus alba album,white,Adjective: 1st and 2nd Declension,Vision,925
 alienus aliena alienum,foreign# strange,Adjective: 1st and 2nd Declension,Geography,367
 aliquando,at some time# at length,Adverb,Time,763
-aliquis -quae -quod,some# any; si quis# si quid: anyone who# anything that,Pronoun,Pronouns/Interrogatives,77
+aliquis aliquisquae aliquisquod,some# any; si quis# si quid: anyone who# anything that,Pronoun,Pronouns/Interrogatives,77
 aliter,otherwise# differently,Adverb,Conjunctions/Adverbs,782
 alius alia aliud,other# another; alias: at another time,Adjective: 1st and 2nd Declension,Pronouns/Interrogatives,37
 alo alere alui alitum,nourish,Verb: 3rd Conjugation -o,Life and Being,817
@@ -49,10 +48,10 @@ alter altera alterum,other of two,Adjective: 1st and 2nd Declension,Measurement,
 altus alta altum,high# lofty; deep,Adjective: 1st and 2nd Declension,Geography,159
 amicitia amicitae f.,friendship,Noun: 1st Declension,Social Life,690
 amicus amica amicum,friendly; (as subst.) friend,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,198
-amitto -mittere -misi -missum,let go# send away,Verb: 3rd Conjugation -o,Verbs of Compelling/Directing,486
+amitto amittere amittmisi amittmissum,let go# send away,Verb: 3rd Conjugation -o,Verbs of Compelling/Directing,486
 amnis amnis m.,river# torrent,Noun: 3rd Declension,Earth and Water,467
-amo -are,to love; amans -ntis m./f.: lover,Verb: 1st Conjugation,Love,219
-amor amoris m.,love,Noun: 3rd Declension,Love,116
+amo amare,to love; amans -ntis m./f.: lover,Verb: 1st Conjugation,Love,219
+amor amooris m.,love,Noun: 3rd Declension,Love,116
 amplus ampla amplum,large# spacious,Adjective: 1st and 2nd Declension,Measurement,915
 an,or (in questions); utrum ... an: whether ... or,Conjunction,Conjunctions/Adverbs,94
 anima aniae f.,breath# spirit,Noun: 1st Declension,Life and Being,493
@@ -63,8 +62,8 @@ ante,before# in front of (adv. and prep. + acc.),Preposition,Time,112
 antequam,before,Conjunction,Time,787
 antiquus antiqua antiquum,ancient# old-time# former,Adjective: 1st and 2nd Declension,Lengths of Time,617
 aperio aperire aperui apertum,open,Verb: 4th Conjugation,The House,837
-appareo -ere -ui,appear# become visible,Verb: 2nd Conjugation,Vision,830
-appello -pellare,call# address# name,Verb: 1st Conjugation,Social Life,700
+appareo apparere apparui,appear# become visible,Verb: 2nd Conjugation,Vision,830
+appello appellare,call# address# name,Verb: 1st Conjugation,Social Life,700
 aptus apta aptum,fit# suitable,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,916
 apud,near# in the presence of (+acc.),Preposition,Place,205
 aqua aqae f.,water,Noun: 1st Declension,Earth and Water,272
@@ -77,17 +76,17 @@ arma arorum n. pl.,arms# weapons,Noun: 2nd Declension,War and Peace,98
 ars artis f.,skill,Noun: 3rd Declension,Education/Knowledge,258
 arvum arvi n.,ploughed land# field,Noun: 2nd Declension,Animals/Plants,637
 arx arcis f.,citadel# castle; summit,Noun: 3rd Declension,The City,638
-ascendo -ere -scendi -scensum,climb up# ascend,Verb: 3rd Conjugation -o,Travel,990
-aspicio -ere -spexi -spectum,look to or at# behold,Verb: 3rd Conjugation -io,Vision,483
+ascendo ascendere ascendi ascendscensum,climb up# ascend,Verb: 3rd Conjugation -o,Travel,990
+aspicio aspicere aspicspexi aspicspectum,look to or at# behold,Verb: 3rd Conjugation -io,Vision,483
 adsum adesse affui,be present,Verb: Irregular,Place,279
 astrum astri n.,star; constellation,Noun: 2nd Declension,Air and Fire,685
 at,but# but yet,Conjunction,Conjunctions/Adverbs,74
 atque,and in addition# and also# and; (after comparatives) than; simul atque# as soon as; → ac,Conjunction,Conjunctions/Adverbs,35
-auctor auctoris m.,originator# founder,Noun: 3rd Declension,Writing/Poetry,546
+auctor auctooris m.,originator# founder,Noun: 3rd Declension,Writing/Poetry,546
 auctoritas auctoritatis f.,influence# clout# authority,Noun: 3rd Declension,Social Life,898
 audax audacis,bold# daring; reckless,Adjective: 3rd Declension,Personality Traits/Characteristics,876
 audeo audere ausus sum,dare# be eager,Verb: 2nd Conjugation,Personality Traits/Characteristics,270
-audio -ire -ivi/-ii -itum,hear# listen to,Verb: 4th Conjugation,Other Senses,165
+audio audire audivi auditum,hear# listen to,Verb: 4th Conjugation,Other Senses,165
 aufero auferre abstuli ablatum,take away,Verb: Irregular,Verbs of Transport,556
 augeo augere auxi auctum,increase,Verb: 2nd Conjugation,Making/Doing,709
 avis avis f.,bird,Noun: 3rd Declension,Animals/Plants,855
@@ -119,7 +118,7 @@ canis canis m./f.,dog,Noun: 3rd Declension,Animals/Plants,687
 cano canere cecini cantum,sing,Verb: 3rd Conjugation -o,Writing/Poetry,389
 capio capere cepi captum,seize,Verb: 3rd Conjugation -io,War and Peace,131
 caput capitis n.,head,Noun: 3rd Declension,The Body,124
-careo -ere -ui,lack (+ abl.),Verb: 2nd Conjugation,Business/Money,572
+careo carere carui,lack (+ abl.),Verb: 2nd Conjugation,Business/Money,572
 carmen carminis n.,song,Noun: 3rd Declension,Writing/Poetry,254
 carus cara carum,dear,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,462
 castrum castri n.,fortress# (regularly plural# castra camp),Noun: 2nd Declension,War and Peace,224
@@ -128,14 +127,14 @@ casus casus m.,a fall; chance# accident,Noun: 4th Declension,Violence,344
 caveo cavere cavi cautum,be on guard# beware,Verb: 2nd Conjugation,Violence,941
 causa cauae f.,cause# reason; causa + preceding genitive# for the sake of,Noun: 1st Declension,Speech/Oratory,107
 cedo cedere cessi cessum,go# move; yield,Verb: 3rd Conjugation -o,War and Peace,304
-celebro -are,frequent# throng# crowd,Verb: 1st Conjugation,The City,893
-celer celis cele,swift,Adjective: 3rd Declension,Time,745
+celebro celebrare,frequent# throng# crowd,Verb: 1st Conjugation,The City,893
+celer celeis celee,swift,Adjective: 3rd Declension,Time,745
 celeriter,quickly,Adverb,Time,967
 censeo censere censui censum,assess# rate; think# decide,Verb: 2nd Conjugation,Education/Knowledge,928
 centum,one hundred,Adjective: Numeral,Measurement,730
 cerno cernere crevi cretum,discern# separate,Verb: 3rd Conjugation -o,Education/Knowledge,655
 certe,certainly# surely,Adverb,Measurement,601
-certo -are,decide by contest; fight# compete# vie,Verb: 1st Conjugation,Athletics,864
+certo certare,decide by contest; fight# compete# vie,Verb: 1st Conjugation,Athletics,864
 certus certa certum,sure# fixed,Adjective: 1st and 2nd Declension,Measurement,285
 ceterum,for the rest# in addition# however that may be,Adverb,Pronouns/Interrogatives,571
 ceterus cetera ceterum,the other# the others# the rest,Adjective: 1st and 2nd Declension,Pronouns/Interrogatives,596
@@ -146,119 +145,119 @@ circa,around (adv. and prep. +acc.),Preposition,Place,735
 citus cita citum,swift; cito swiftly,Adjective: 1st and 2nd Declension,Time,590
 civis civis m./f.,citizen,Noun: 3rd Declension,The City,471
 civitas civitatis f.,citizenship# state,Noun: 3rd Declension,The City,346
-clamor clamoris m.,outcry# shout,Noun: 3rd Declension,Speech/Oratory,605
+clamor clamooris m.,outcry# shout,Noun: 3rd Declension,Speech/Oratory,605
 clarus clara clarum,clear# distinguished,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,395
 classis classis f.,class# division# fleet,Noun: 3rd Declension,War and Peace,505
 claudo claudere clausi clausum,close# shut,Verb: 3rd Conjugation -o,The House,392
 coepi coepisse coeptus,begin,Verb: Irregular,Time,312
-cogito -are,think# reflect,Verb: 1st Conjugation,Education/Knowledge,515
-cognosco -gnoscere -gnovi -gnitum,learn# understand,Verb: 3rd Conjugation -o,Education/Knowledge,339
+cogito cogitare,think# reflect,Verb: 1st Conjugation,Education/Knowledge,515
+cognosco cognoscere cognoscgnovi cognoscgnitum,learn# understand,Verb: 3rd Conjugation -o,Education/Knowledge,339
 cogo cogere coegi coactum,drive together; compel,Verb: 3rd Conjugation -o,Verbs of Compelling/Directing,250
 cohors cohortis f.,cohort# band# troop,Noun: 3rd Declension,War and Peace,666
-colligo -ere -legi -lectum,gather together# collect,Verb: 3rd Conjugation -o,Verbs of Compelling/Directing,820
+colligo colligere colliglegi colliglectum,gather together# collect,Verb: 3rd Conjugation -o,Verbs of Compelling/Directing,820
 colo colere colui cultum,inhabit# cultivate,Verb: 3rd Conjugation -o,Animals/Plants,333
-color coloris m.,color,Noun: 3rd Declension,Vision,725
+color colooris m.,color,Noun: 3rd Declension,Vision,725
 coma coae f.,hair# tresses,Noun: 1st Declension,The Body,405
 comes comitis m./f.,companion# comrade; attendant# follower,Noun: 3rd Declension,Social Life,448
-committo -mittere -misi -missum,join# entrust to (+ dat.); perform# do,Verb: 3rd Conjugation -o,Social Life,608
+committo committere committmisi committmissum,join# entrust to (+ dat.); perform# do,Verb: 3rd Conjugation -o,Social Life,608
 communis commune,common# general,Adjective: 3rd Declension,The City,660
-comparo -are,get ready# provide; compare,Verb: 1st Conjugation,Business/Money,890
-compono -ponere posui positum,build# construct# arrange,Verb: 3rd Conjugation -o,Making/Doing,443
-concedo -cedere -cessi -cessum,yield# withdraw,Verb: 3rd Conjugation -o,War and Peace,663
+comparo compare,get ready# provide; compare,Verb: 1st Conjugation,Business/Money,890
+compono componere posui positum,build# construct# arrange,Verb: 3rd Conjugation -o,Making/Doing,443
+concedo concedere concedcessi concedcessum,yield# withdraw,Verb: 3rd Conjugation -o,War and Peace,663
 condicio condiconis f.,agreement# condition,Noun: 3rd Declension,Business/Money,920
-condo -dere -didi -ditum,build# found; store up; hide# conceal,Verb: 3rd Conjugation -o,The City,540
+condo condere condidi conditum,build# found; store up; hide# conceal,Verb: 3rd Conjugation -o,The City,540
 confero conferre contuli collatum,collect# bring to,Verb: Irregular,Verbs of Transport,645
-conficio -ficere -feci -fectum,complete# accomplish; destroy# kill# consume,Verb: 3rd Conjugation -io,Violence,894
+conficio conficere conficfeci conficfectum,complete# accomplish; destroy# kill# consume,Verb: 3rd Conjugation -io,Violence,894
 confiteor confiteri confessus sum,admit (a fact)# confess (a crime); reveal# disclose,Verb: Deponent,Justice,972
 coniunx coniugis m./f.,spouse# husband# wife,Noun: 3rd Declension,The Household,218
 conor conari conatus sum,try# attempt,Verb: Deponent,Making/Doing,905
-consequor -sequi -secutus sum,follow up# overtake# attain,Verb: Deponent,Motion,917
+consequor consequorsequi consequorsecutus sum,follow up# overtake# attain,Verb: Deponent,Motion,917
 consilium consilii n.,plan; council# group of advisors,Noun: 2nd Declension,The City,217
-consisto -sistere -stiti,take position; consist in# be composed of,Verb: 3rd Conjugation -o,Speech/Oratory,780
-constituo -stituere -stitui -stitutum,establish# put together,Verb: 3rd Conjugation -o,Making/Doing,652
-consto -stare -stiti,agree; constat# it is established that (+ acc. and infin.),Verb: 1st Conjugation,Speech/Oratory,731
+consisto consistere consistiti,take position; consist in# be composed of,Verb: 3rd Conjugation -o,Speech/Oratory,780
+constituo constituere constitui constitutum,establish# put together,Verb: 3rd Conjugation -o,Making/Doing,652
+consto constare constiti,agree; constat# it is established that (+ acc. and infin.),Verb: 1st Conjugation,Speech/Oratory,731
 consuetudo consuetuinis f.,custom# habit,Noun: 3rd Declension,Personality Traits/Characteristics,954
 consul consulis m.,consul,Noun: 3rd Declension,The City,321
-consulo -sulere -sului -sultum,consult# plan (+ acc.); consider the interests of (+dat),Verb: 3rd Conjugation -o,The City,757
-consumo -sumere -sumpsi -sumptum,to use up# consume,Verb: 3rd Conjugation -o,Life and Being,869
-contemno -temnere -tempsi -temptum,despise# scorn# disdain,Verb: 3rd Conjugation -o,Emotions,615
-contineo -tinere -tinui -tentum,contain# restrain,Verb: 2nd Conjugation,Verbs of Compelling/Directing,804
-contingo -tingere -tigi -tactum,touch# be contiguous to,Verb: 3rd Conjugation -o,Place,494
+consulo consulere consului consultum,consult# plan (+ acc.); consider the interests of (+dat),Verb: 3rd Conjugation -o,The City,757
+consumo consumere consumpsi consumptum,to use up# consume,Verb: 3rd Conjugation -o,Life and Being,869
+contemno contemnere contemntempsi contemntemptum,despise# scorn# disdain,Verb: 3rd Conjugation -o,Emotions,615
+contineo continere continui contintentum,contain# restrain,Verb: 2nd Conjugation,Verbs of Compelling/Directing,804
+contingo contingere contingtigi contingtactum,touch# be contiguous to,Verb: 3rd Conjugation -o,Place,494
 contra,against# opposite (adv. and prep. +acc.),Preposition,Place,271
-convenio -venire -veni -ventum,assemble# meet; agree,Verb: 4th Conjugation,Social Life,698
-converto -vertere -verti -versum,turn about# turn# change,Verb: 3rd Conjugation -o,Motion,834
+convenio convenire conveni conventum,assemble# meet; agree,Verb: 4th Conjugation,Social Life,698
+converto convertere converti convertversum,turn about# turn# change,Verb: 3rd Conjugation -o,Motion,834
 convivium conviviii n.,banquet# feast,Noun: 2nd Declension,Social Life,921
 copia copae f.,abundance; (pl.) troops,Noun: 1st Declension,War and Peace,331
 cor cordis n.,heart; cordi est# it is pleasing to (+ dat.),Noun: 3rd Declension,The Body,795
 cornu corus n.,horn,Noun: 4th Declension,Animals/Plants,591
 corpus corporis n.,body,Noun: 3rd Declension,The Body,75
-corrumpo -rumpere -rupi -ruptum,break up# destroy# ruin,Verb: 3rd Conjugation -o,Violence,870
+corrumpo corrumpere corrumprupi corrumpruptum,break up# destroy# ruin,Verb: 3rd Conjugation -o,Violence,870
 credo credere credidi creditum,believe,Verb: 3rd Conjugation -o,Education/Knowledge,109
-creo -are,produce# create; elect# choose,Verb: 1st Conjugation,Making/Doing,978
+creo crare,produce# create; elect# choose,Verb: 1st Conjugation,Making/Doing,978
 cresco crescere crevi cretum,grow# increase,Verb: 3rd Conjugation -o,Animals/Plants,609
 crimen criminis n.,verdict# accusation,Noun: 3rd Declension,Justice,475
 culpa culae f.,guilt# fault# blame,Noun: 1st Declension,Justice,769
 cum,with (prep. + abl.); when# since# although (conjunction + subj.),Preposition,Conjunctions/Adverbs,10
 cunctus cuncta cunctum,entire all together,Adjective: 1st and 2nd Declension,Measurement,292
 cupido cupiinis f.,desire# eagerness# craving,Noun: 3rd Declension,Love,906
-cupio -ere -ivi -itum,desire,Verb: 3rd Conjugation -io,Love,441
+cupio cupere cupivi cupitum,desire,Verb: 3rd Conjugation -io,Love,441
 cur,why?,Adverb,Pronouns/Interrogatives,404
 cura cuae f.,care# concern,Noun: 1st Declension,Love,186
-curo -are,watch over# look after# care for (+ acc.),Verb: 1st Conjugation,Love,743
+curo curare,watch over# look after# care for (+ acc.),Verb: 1st Conjugation,Love,743
 curro currere cucurri cursum,run,Verb: 3rd Conjugation -o,Athletics,562
 currus currus m.,chariot,Noun: 4th Declension,Athletics,491
 cursus cursus m.,course# advance,Noun: 4th Declension,Athletics,351
 custos custodis m.,guardian,Noun: 3rd Declension,The Household,622
-damno -are,condemn,Verb: 1st Conjugation,Justice,751
+damno damnare,condemn,Verb: 1st Conjugation,Justice,751
 damnum damni n.,damage# injury,Noun: 2nd Declension,Violence,926
 de,down from# about# concerning (+ abl.),Preposition,Place,46
 debeo debere debui debitum,owe# be obliged,Verb: 2nd Conjugation,Business/Money,155
 decem,ten,Adjective: Numeral,Measurement,914
-decerno -cernere -crevi -cretum,determine# decide,Verb: 3rd Conjugation -o,Education/Knowledge,800
+decerno decernere decerncrevi decerncretum,determine# decide,Verb: 3rd Conjugation -o,Education/Knowledge,800
 decet decere decuit,it is right# proper# fitting (+ acc. + infin.),Verb: Impersonal,Personality Traits/Characteristics,718
 decus decoris n.,beauty# grace; ornament# glory# honor,Noun: 3rd Declension,Personality Traits/Characteristics,548
-deduco -ducere -duxi -ductum,launch# lead away,Verb: 3rd Conjugation -o,Travel,661
-defendo -fendere -fendi -fensum,defend# ward off,Verb: 3rd Conjugation -o,War and Peace,653
-defero -ferre -tuli -latum,carry away# report,Verb: Irregular,Verbs of Transport,805
-deficio -ficere -feci -fectum,fail# give out; revolt from,Verb: 3rd Conjugation -io,War and Peace,676
+deduco deducere deducduxi deductum,launch# lead away,Verb: 3rd Conjugation -o,Travel,661
+defendo defendere defendi defendfensum,defend# ward off,Verb: 3rd Conjugation -o,War and Peace,653
+defero deferre defertuli deferlatum,carry away# report,Verb: Irregular,Verbs of Transport,805
+deficio deficere deficfeci deficfectum,fail# give out; revolt from,Verb: 3rd Conjugation -io,War and Peace,676
 deinde/dein,then# next,Adverb,Time,150
 denique,finally,Adverb,Time,796
-descendo -scendere -scendi -scensum,climb down# descend,Verb: 3rd Conjugation -o,Travel,802
-desero -ere deserui desertum,leave# desert# abandon,Verb: 3rd Conjugation -o,Motion,544
-desidero -are,long for# desire greatly,Verb: 1st Conjugation,Love,892
-desino -sinere -sii -situm,leave off# cease,Verb: 3rd Conjugation -o,Motion,624
-desum -esse -fui,be lacking,Verb: Irregular,Business/Money,463
+descendo descendere descendi descendscensum,climb down# descend,Verb: 3rd Conjugation -o,Travel,802
+desero desere deserui desertum,leave# desert# abandon,Verb: 3rd Conjugation -o,Motion,544
+desidero desiderare,long for# desire greatly,Verb: 1st Conjugation,Love,892
+desino desinere desinsii desinsitum,leave off# cease,Verb: 3rd Conjugation -o,Motion,624
+desum desumesse desumfui,be lacking,Verb: Irregular,Business/Money,463
 deus dei m.; dea deae f.,god; goddess,Noun: 2nd Declension,Religion,42
-dexter dexttra dexttrum,right; dextera -ae f.: right hand,Adjective: 1st and 2nd Declension,Place,260
+dexter dextetra dextetrum,right; dextera -ae f.: right hand,Adjective: 1st and 2nd Declension,Place,260
 dico dicere dixi dictum,say; causam dicere# plead a case; diem dicere# appoint a day,Verb: 3rd Conjugation -o,Speech/Oratory,33
 dies diei m./f.,day,Noun: 5th Declension,Lengths of Time,54
 differo differre distuli dilatum,scatter; publish# divulge; differ; defer# postpone,Verb: Irregular,Making/Doing,880
 difficilis difficile,not easy# hard# difficult,Adjective: 3rd Declension,Personality Traits/Characteristics,861
 dignitas dignitatis f.,worth# reputation# honor,Noun: 3rd Declension,Personality Traits/Characteristics,956
 dignus digna dignum,worthy,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,291
-diligo -ligere -lexi -lectum,choose# cherish# love,Verb: 3rd Conjugation -o,Love,973
-dimitto -mittere -misi -missum,send away,Verb: 3rd Conjugation -o,Verbs of Compelling/Directing,777
-discedo -ere -cessi -cessum,go away# depart,Verb: 3rd Conjugation -o,Travel,726
+diligo diligere diliglexi diliglectum,choose# cherish# love,Verb: 3rd Conjugation -o,Love,973
+dimitto dimittere dimittmisi dimittmissum,send away,Verb: 3rd Conjugation -o,Verbs of Compelling/Directing,777
+discedo discedere discedcessi discedcessum,go away# depart,Verb: 3rd Conjugation -o,Travel,726
 disciplina discipliae f.,training# instruction; learning# discipline,Noun: 1st Declension,Education/Knowledge,982
-disco -ere didici,learn,Verb: 3rd Conjugation -o,Education/Knowledge,465
+disco discere didici,learn,Verb: 3rd Conjugation -o,Education/Knowledge,465
 diu:,for a long time,Adverb,Time,361
 diversus diversa diversum,different# diverse,Adjective: 1st and 2nd Declension,Other Senses,641
 dives divitis,rich (poet. dis# ditis),Adjective: 3rd Declension,Business/Money,564
-divido -ere divisi divisum,divide# separate,Verb: 3rd Conjugation -o,Making/Doing,628
+divido dividere divisi divisum,divide# separate,Verb: 3rd Conjugation -o,Making/Doing,628
 divitiae divitiarum f. pl.,riches# wealth,Noun: 1st Declension,Business/Money,712
 divus diva divum,divine# godlike; (as subst.) a god,Adjective: 1st and 2nd Declension,Religion,962
 do dare dedi datum,give,Verb: 1st Conjugation,Social Life,28
-doceo -ere -ui doctum,teach,Verb: 2nd Conjugation,Education/Knowledge,393
-doleo -ere dolui,feel pain or grief# grieve,Verb: 2nd Conjugation,Emotions,785
-dolor doloris m.,pain# grief,Noun: 3rd Declension,Emotions,193
+doceo docere docui doctum,teach,Verb: 2nd Conjugation,Education/Knowledge,393
+doleo dolere dolui,feel pain or grief# grieve,Verb: 2nd Conjugation,Emotions,785
+dolor dolooris m.,pain# grief,Noun: 3rd Declension,Emotions,193
 dolus doli m.,artifice# device# trick,Noun: 2nd Declension,Deception,701
 dominus domini m.; domina dominae f.,household master# lord; mistress,Noun: 2nd Declension,The Household,241
 domus domus f.,house# home,Noun: 4th Declension,The House,73
 donec,until,Conjunction,Time,771
-dono -are,present with a gift (+ acc. of person and abl. of thing),Verb: 1st Conjugation,Social Life,606
+dono donare,present with a gift (+ acc. of person and abl. of thing),Verb: 1st Conjugation,Social Life,606
 donum doni n.,gift# present,Noun: 2nd Declension,Social Life,476
-dormio -ire,sleep,Verb: 4th Conjugation,Life and Being,975
-dubito -are,hesitate# doubt,Verb: 1st Conjugation,Education/Knowledge,521
+dormio dormire,sleep,Verb: 4th Conjugation,Life and Being,975
+dubito dubitare,hesitate# doubt,Verb: 1st Conjugation,Education/Knowledge,521
 dubius dubia dubium,doubtful; (as subst.) a doubt; sine dubio# without a doubt# certainly,Adjective: 1st and 2nd Declension,Deception,528
 duco ducere duxi ductum,lead; uxorem ducere# marry,Verb: 3rd Conjugation -o,Verbs of Compelling/Directing,133
 dulcis dulce,sweet,Adjective: 3rd Declension,Other Senses,383
@@ -267,11 +266,11 @@ duo duae duo,two,Adjective: Numeral,Measurement,221
 durus dura durum,hard# tough# harsh,Adjective: 1st and 2nd Declension,Other Senses,249
 dux ducis m./f.,leader# general,Noun: 3rd Declension,War and Peace,239
 ecce,behold!,Adverb,Vision,643
-edico -dicere -dixi -dictum,declare,Verb: 3rd Conjugation -o,Speech/Oratory,996
+edico edicere edicdixi edictum,declare,Verb: 3rd Conjugation -o,Speech/Oratory,996
 edo edere edidi editum,put forth# state# explain,Verb: 3rd Conjugation -o,Speech/Oratory,688
-educo -ducere -duxi -ductum,lead forth,Verb: 3rd Conjugation -o,Verbs of Compelling/Directing,935
-efficio -ficere -feci -fectum,bring about# complete; render (+ ut + subj.),Verb: 3rd Conjugation -io,Making/Doing,573
-effundo -fundere -fudi -fusum,pour out,Verb: 3rd Conjugation -o,Earth and Water,719
+educo educere educduxi eductum,lead forth,Verb: 3rd Conjugation -o,Verbs of Compelling/Directing,935
+efficio efficere efficfeci efficfectum,bring about# complete; render (+ ut + subj.),Verb: 3rd Conjugation -io,Making/Doing,573
+effundo effundere effundfudi effundfusum,pour out,Verb: 3rd Conjugation -o,Earth and Water,719
 ego mei mihi me,I# me,Pronoun,Pronouns/Interrogatives,11
 egredior egredi egressus sum,stride out# depart# disembark from (+ abl.),Verb: Deponent,Travel,912
 egregius egregia egregium,distinguished# uncommon,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,860
@@ -283,22 +282,22 @@ epistula epistuae f.,letter,Noun: 1st Declension,Writing/Poetry,951
 eques equitis m.,horseman# knight,Noun: 3rd Declension,War and Peace,296
 equus equi m.,horse,Noun: 2nd Declension,Animals/Plants,248
 ergo,therefore,Conjunction,Conjunctions/Adverbs,134
-eripio -ripere -ripui -reptum,snatch away# rescue# save,Verb: 3rd Conjugation -io,Verbs of Transport,349
-erro -are,go astray# wander,Verb: 1st Conjugation,Travel,402
-error erroris m.,wandering; error# mistake,Noun: 3rd Declension,Travel,832
+eripio eripere eripui eripreptum,snatch away# rescue# save,Verb: 3rd Conjugation -io,Verbs of Transport,349
+erro errare,go astray# wander,Verb: 1st Conjugation,Travel,402
+error errooris m.,wandering; error# mistake,Noun: 3rd Declension,Travel,832
 et,and,Conjunction,Conjunctions/Adverbs,1
 etiam,also# even,Adverb,Conjunctions/Adverbs,67
 ex# e,out of# from (+ abl.),Preposition,Place,26
-excipio -cipere -cepi -ceptum,take out,Verb: 3rd Conjugation -io,Verbs of Transport,394
+excipio excipere excipcepi excipceptum,take out,Verb: 3rd Conjugation -io,Verbs of Transport,394
 exemplum exempli n.,example# sample# copy,Noun: 2nd Declension,Speech/Oratory,519
-exeo -ire -ii -itum,go forth,Verb: Irregular,Motion,597
-exerceo -ercere -ercui -ercitum,train# exercise# carry on,Verb: 2nd Conjugation,Athletics,576
+exeo exire exii exitum,go forth,Verb: Irregular,Motion,597
+exerceo exercere exercui exercitum,train# exercise# carry on,Verb: 2nd Conjugation,Athletics,576
 exercitus exercitus m.,army,Noun: 4th Declension,War and Peace,267
-exigo -igere -egi -actum,drive out; collect,Verb: 3rd Conjugation -o,Verbs of Compelling/Directing,500
-existimo -are,think# believe,Verb: 1st Conjugation,Education/Knowledge,613
-experior -periri -pertus sum,try thoroughly# test# experience,Verb: Deponent,Education/Knowledge,713
+exigo exigere exigegi exigactum,drive out; collect,Verb: 3rd Conjugation -o,Verbs of Compelling/Directing,500
+existimo existimare,think# believe,Verb: 1st Conjugation,Education/Knowledge,613
+experior experiorperiri experiorpertus sum,try thoroughly# test# experience,Verb: Deponent,Education/Knowledge,713
 exsilium exsilii n.,exile# banishment,Noun: 2nd Declension,Travel,794
-exspecto -are,watch# wait# expect,Verb: 1st Conjugation,Vision,442
+exspecto exspectare,watch# wait# expect,Verb: 1st Conjugation,Vision,442
 extremus extrema extremum,farthest# situated at the end or tip# extreme,Adjective: 1st and 2nd Declension,Geography,385
 fabula fabuae f.,account# tale# story,Noun: 1st Declension,Writing/Poetry,966
 facies faciei f.,form# appearance,Noun: 5th Declension,Vision,479
@@ -354,10 +353,10 @@ fruor frui fructus sum,enjoy the produce of# profit by# use (+ abl.),Verb: Depon
 frustra,in vain,Adverb,Conjunctions/Adverbs,694
 fuga fuae f.,flight# route,Noun: 1st Declension,Travel,364
 fugio fugere fugi fugitum,flee# escape,Verb: 3rd Conjugation -io,Travel,177
-fugo -are,put to flight,Verb: 1st Conjugation,Travel,957
+fugo fugare,put to flight,Verb: 1st Conjugation,Travel,957
 fundo fundere fudi fusum,pour# scatter,Verb: 3rd Conjugation -o,Earth and Water,523
 funus funeris n.,funeral; death; dead body,Noun: 3rd Declension,Religion,524
-furor furoris m.,rage# fury,Noun: 3rd Declension,Emotions,466
+furor furooris m.,rage# fury,Noun: 3rd Declension,Emotions,466
 fore,,Verb: Irregular,Life and Being,985
 gaudeo gaudere gavisus sum,rejoice,Verb: 2nd Conjugation,Emotions,407
 gaudium gaudii n.,delight# joy# pleasure,Noun: 2nd Declension,Emotions,727
@@ -379,7 +378,7 @@ hiems hiemis f.,winter,Noun: 3rd Declension,Lengths of Time,803
 hodie,today,Adverb,Lengths of Time,981
 homo hominis m.,human being,Noun: 3rd Declension,People,88
 honestus honesta honestum,honorable,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,580
-honor honoris m.,honor# glory; office# post,Noun: 3rd Declension,The City,290
+honor honooris m.,honor# glory; office# post,Noun: 3rd Declension,The City,290
 hora hoae f.,hour,Noun: 1st Declension,Lengths of Time,664
 hortor hortari hortatus sum,urge strongly# advise# exhort,Verb: Deponent,Speech/Oratory,887
 hospes hospitis m.,guest# guest-friend; stranger; host,Noun: 3rd Declension,Social Life,873
@@ -400,40 +399,40 @@ ille illa illud,that,Pronoun,Pronouns/Interrogatives,8
 illic,at that place# there; illinc: from that place,Adverb,Place,396
 illuc,to that place,Adverb,Place,955
 imago imainis f.,image# form# figure,Noun: 3rd Declension,Vision,754
-imperator imperatoris m.,commander,Noun: 3rd Declension,War and Peace,723
+imperator imperatooris m.,commander,Noun: 3rd Declension,War and Peace,723
 imperium imperii n.,command# power,Noun: 2nd Declension,War and Peace,200
-impero -are,command# control,Verb: 1st Conjugation,War and Peace,602
+impero imperare,command# control,Verb: 1st Conjugation,War and Peace,602
 impetus impetus m.,attack,Noun: 4th Declension,Violence,421
-impleo -ere -plevi -pletum,fill in# fill up,Verb: 2nd Conjugation,Earth and Water,671
-impono -ere -posui -positum,put in# put on# impose# levy upon,Verb: 3rd Conjugation -o,Measurement,437
+impleo implere implevi impletum,fill in# fill up,Verb: 2nd Conjugation,Earth and Water,671
+impono imponere imponposui imponpositum,put in# put on# impose# levy upon,Verb: 3rd Conjugation -o,Measurement,437
 in,in# on (+ abl.); into# onto (+ acc),Preposition,Place,5
 incido incidere incidi,fall upon# fall into; happen,Verb: 3rd Conjugation -o,Motion,871
-incipio -cipere -cepi -ceptum,begin,Verb: 3rd Conjugation -io,Time,411
+incipio incipere incipcepi incipceptum,begin,Verb: 3rd Conjugation -io,Time,411
 inde,from there# from then,Adverb,Place,328
-indico -are,point out# show# make known,Verb: 1st Conjugation,Speech/Oratory,980
+indico indicare,point out# show# make known,Verb: 1st Conjugation,Speech/Oratory,980
 infero inferre intuli illatum,bring upon# against; bellum inferre: make war on,Verb: Irregular,War and Peace,742
 inferus infera inferum,low; inferior: lower; infimus or imus: lowest,Adjective: 1st and 2nd Declension,Geography,428
 ingenium ingenii n.,disposition# ability# talent,Noun: 2nd Declension,Education/Knowledge,387
 ingens ingentis,huge# enormous,Adjective: 3rd Declension,Measurement,202
 ingratus ingrata ingratum:,unpleasant# disagreeable,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,592
-ingredior -gredi -gressus sum:,step in# enter,Verb: Deponent,Motion,885
+ingredior ingrediorgredi ingrediorgressus sum:,step in# enter,Verb: Deponent,Motion,885
 inimicus inimica inimicum:,unfriendly; (as subst.) enemy,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,952
 initium initii n.:,beginning,Noun: 2nd Declension,Time,865
 iniuria iniurae f.:,injustice# wrong# affront,Noun: 1st Declension,Justice,381
 inquam# inquis# inquit# inquiunt:,say (used with direct speech),Verb: Irregular,Speech/Oratory,163
-instituo -stituere -stitui -stitutum:,undertake; equip,Verb: 3rd Conjugation -o,Making/Doing,931
+instituo instituere institui institutum:,undertake; equip,Verb: 3rd Conjugation -o,Making/Doing,931
 insula insuae f.:,island,Noun: 1st Declension,Geography,908
-integer integgra integgrum:,untouched# fresh# complete# whole,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,815
-intellego -legere -lexi -lectum:,understand,Verb: 3rd Conjugation -o,Education/Knowledge,512
-intendo -tendere -tendi -tentum:,stretch out# strain,Verb: 3rd Conjugation -o,Motion,895
+integer integegra integegrum:,untouched# fresh# complete# whole,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,815
+intellego intellegere intelleglexi intelleglectum:,understand,Verb: 3rd Conjugation -o,Education/Knowledge,512
+intendo intendere intendi intendtentum:,stretch out# strain,Verb: 3rd Conjugation -o,Motion,895
 inter,between# among; during (+ acc.),Preposition,Place,64
-interficio -ficere -feci -fectum,kill,Verb: 3rd Conjugation -io,Violence,699
+interficio interficere interficfeci interficfectum,kill,Verb: 3rd Conjugation -io,Violence,699
 interim,meanwhile,Adverb,Time,693
-interrogo -are,put a question to# ask (+ acc.),Verb: 1st Conjugation,Speech/Oratory,953
-intersum -esse -fui,to be between; take part in# attend (+dat.); interest# it is in the interest of (+ gen.),Verb: Irregular,Place,760
+interrogo interrogare,put a question to# ask (+ acc.),Verb: 1st Conjugation,Speech/Oratory,953
+intersum intersumesse intersumfui,to be between; take part in# attend (+dat.); interest# it is in the interest of (+ gen.),Verb: Irregular,Place,760
 intra,within (+ acc.),Preposition,Place,704
-intro -are,enter,Verb: 1st Conjugation,Motion,766
-invenio -venire -veni -ventum,find; discover,Verb: 4th Conjugation,Travel,316
+intro intrare,enter,Verb: 1st Conjugation,Motion,766
+invenio invenire inveni inventum,find; discover,Verb: 4th Conjugation,Travel,316
 invidia invidae f.,envy# jealousy# hatred,Noun: 1st Declension,Emotions,707
 ipse ipsa ipsum,him- her- itself,Pronoun,Pronouns/Interrogatives,22
 ira irae f.,wrath# anger,Noun: 1st Declension,Emotions,187
@@ -448,16 +447,16 @@ iterum,again,Adverb,Time,758
 iubeo iubere iussi iussum,bid# order,Verb: 2nd Conjugation,Justice,84
 iudex iudicis m.,judge# juror,Noun: 3rd Declension,Justice,839
 iudicium iudicii n.,judgment# decision# trial,Noun: 2nd Declension,Justice,749
-iudico -are,judge# decide,Verb: 1st Conjugation,Justice,565
+iudico iudicare,judge# decide,Verb: 1st Conjugation,Justice,565
 iugum iugi n.,yoke; ridge# chain of hills,Noun: 2nd Declension,Animals/Plants,335
 iungo iungere iunxi iunctum,join,Verb: 3rd Conjugation -o,Making/Doing,513
-iuro -are,take an oath# swear; ius iurandum# oath,Verb: 1st Conjugation,Justice,896
+iuro iurare,take an oath# swear; ius iurandum# oath,Verb: 1st Conjugation,Justice,896
 ius iuris n.,right# justice# law,Noun: 3rd Declension,Justice,314
 iustus iusta iustum,right# just# fair,Adjective: 1st and 2nd Declension,Justice,770
 iuvenis iuvenis m.,youth,Noun: 3rd Declension,People,277
 iuvo iuvare iuvi iutum,help# assist; please# delight,Verb: 1st Conjugation,Social Life,390
-labor laboris m.,toil# exertion,Noun: 3rd Declension,Business/Money,201
-laboro -are,toil# work; be in trouble or distress,Verb: 1st Conjugation,Business/Money,900
+labor labooris m.,toil# exertion,Noun: 3rd Declension,Business/Money,201
+laboro laborare,toil# work; be in trouble or distress,Verb: 1st Conjugation,Business/Money,900
 lacrima lacriae f.,tear,Noun: 1st Declension,Emotions,354
 laedo laedere laesi laesum,injure by striking# hurt,Verb: 3rd Conjugation -o,Violence,783
 laetus laeta laetum,glad# joyful,Adjective: 1st and 2nd Declension,Emotions,262
@@ -465,7 +464,7 @@ lapis lapidis m.,stone,Noun: 3rd Declension,Earth and Water,840
 lateo latere latui,lie hidden# be hidden,Verb: 2nd Conjugation,Deception,695
 latus lateris n.,side# flank,Noun: 3rd Declension,The Body,382
 latus lata latum,broad# wide,Adjective: 1st and 2nd Declension,Measurement,824
-laudo -are,praise,Verb: 1st Conjugation,Social Life,435
+laudo laudare,praise,Verb: 1st Conjugation,Social Life,435
 laus laudis f.,praise# glory,Noun: 3rd Declension,Social Life,444
 legatus legati m.,lieutenant# envoy,Noun: 2nd Declension,War and Peace,464
 legio legonis f.,legion,Noun: 3rd Declension,War and Peace,370
@@ -514,7 +513,7 @@ mensa menae f.,table,Noun: 1st Declension,The House,747
 mereo merere merui meritum,deserve# merit; serve as a soldier,Verb: 2nd Conjugation,Business/Money,852
 metuo metuere metui,to fear# to dread,Verb: 3rd Conjugation -o,Emotions,429
 metus metus m.,fear# dread,Noun: 4th Declension,Emotions,215
-meus -a -um,my,Pronoun,Pronouns/Interrogatives,41
+meus meusa meusum,my,Pronoun,Pronouns/Interrogatives,41
 miles militis m.,soldier,Noun: 3rd Declension,War and Peace,161
 mille (pl.) milia,thousand,Adjective: Numeral,Measurement,247
 miror mirari miratus sum,wonder at# marvel at (+ acc.),Verb: Deponent,Emotions,504
@@ -534,18 +533,18 @@ moror morari moratus sum,delay,Verb: Deponent,Time,581
 mors mortis f.,death,Noun: 3rd Declension,Life and Being,95
 mortalis mortale,liable to death# mortal; (as subst.) a mortal,Adjective: 3rd Declension,Life and Being,950
 mos moris m.,custom# habit; (pl.) character,Noun: 3rd Declension,Social Life,181
-moveo -ere movi motum,move,Verb: 2nd Conjugation,Motion,192
+moveo movere movi motum,move,Verb: 2nd Conjugation,Motion,192
 mox,soon,Adverb,Time,469
-mulier mulieris f.,woman,Noun: 3rd Declension,People,961
+mulier mulieeris f.,woman,Noun: 3rd Declension,People,961
 multitudo multituinis f.,multitude# number,Noun: 3rd Declension,Measurement,733
 multus multa multum,much# many; multo# by far,Adjective: 1st and 2nd Declension,Measurement,43
 mundus mundi m.,world# universe# heavens,Noun: 2nd Declension,Earth and Water,350
 mundus munda mundum,clean# neat# elegant,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,997
 munus muneris n.,gift# offering; duty# obligation; (pl.) gladiatorial show,Noun: 3rd Declension,Social Life,276
 murus muri m.,wall,Noun: 2nd Declension,The House,508
-muto -are,change,Verb: 1st Conjugation,Making/Doing,315
+muto mutare,change,Verb: 1st Conjugation,Making/Doing,315
 nam or namque,for# indeed# really,Conjunction,Conjunctions/Adverbs,61
-narro -are,relate# recount,Verb: 1st Conjugation,Speech/Oratory,910
+narro narrare,relate# recount,Verb: 1st Conjugation,Speech/Oratory,910
 nascor nasci natus sum,be born,Verb: Deponent,Life and Being,266
 natura natuae f.,nature,Noun: 1st Declension,Life and Being,180
 natus nati m.,son,Noun: 2nd Declension,The Household,211
@@ -556,12 +555,12 @@ nec,and not# nor; nec ... nec# neither ... nor; → neque,Conjunction,Conjunctio
 necesse (indecl. adj.),necessary,Adjective: Indeclinable,Business/Money,773
 necessitas necessittatis f.,necessity# need,Noun: 3rd Declension,Business/Money,911
 nefas n. indecl.,impiety# wickedness,Noun: Indeclinable,Justice,541
-nego -are,deny# refuse,Verb: 1st Conjugation,Speech/Oratory,294
+nego negare,deny# refuse,Verb: 1st Conjugation,Speech/Oratory,294
 negotium negotii n.,business,Noun: 2nd Declension,Business/Money,846
 nemo,no one (gen. nullius# dat. nulli# abl. nullo or nulla → nullus -a -um),Pronoun,Pronouns/Interrogatives,179
 nemus nemoris n.,grove# forest,Noun: 3rd Declension,Animals/Plants,461
 neque,and not# nor; neque ... neque# neither ... nor; → nec,Conjunction,Conjunctions/Adverbs,72
-nescio -scire,not know# be ignorant,Verb: 4th Conjugation,Education/Knowledge,525
+nescio nescire,not know# be ignorant,Verb: 4th Conjugation,Education/Knowledge,525
 nisi# ni,if not# unless,Conjunction,Conjunctions/Adverbs,100
 niger nigra nigrum,black,Adjective: 1st and 2nd Declension,Vision,634
 nihil# nil,nothing; not at all,Noun: Indeclinable,Measurement,55
@@ -588,9 +587,9 @@ numquam,never,Adverb,Time,251
 nunc,now,Adverb,Time,50
 nuntius nuntii m.,messenger; news,Noun: 2nd Declension,Travel,919
 ob,against# on account of (+acc),Preposition,Place,449
-occido -cidere -cidi -cisum,kill# cut down,Verb: 3rd Conjugation -o,Violence,801
-occupo -are,seize# occupy; anticipate# do a thing first (+ infin.),Verb: 1st Conjugation,War and Peace,472
-occurro -currere -cucurri -cursum,run to meet; come into one’s mind,Verb: 3rd Conjugation -o,Education/Knowledge,677
+occido occidere occidi occidcisum,kill# cut down,Verb: 3rd Conjugation -o,Violence,801
+occupo occupare,seize# occupy; anticipate# do a thing first (+ infin.),Verb: 1st Conjugation,War and Peace,472
+occurro occurrere occurrcucurri occurrcursum,run to meet; come into one’s mind,Verb: 3rd Conjugation -o,Education/Knowledge,677
 oculus oculi m.,eye,Noun: 2nd Declension,The Body,206
 odi odisse,hate,Verb: Irregular,Emotions,790
 odium odii n.,hatred,Noun: 2nd Declension,Emotions,522
@@ -600,16 +599,16 @@ olim,formerly# at that time,Adverb,Time,574
 omnis omne,all# every# as a whole,Adjective: 3rd Declension,Measurement,18
 onus oneris n.,load# burden,Noun: 3rd Declension,Measurement,842
 opera opeae f.,labor# activity# work,Noun: 1st Declension,Business/Money,843
-oportet -ere -uit,it is proper# right (+ acc. + infin.),Verb: Impersonal,Social Life,806
+oportet oportetere oportetuit,it is proper# right (+ acc. + infin.),Verb: Impersonal,Social Life,806
 oppidum oppidi n.,town,Noun: 2nd Declension,The City,635
 ops opis f.,assistance# resources,Noun: 3rd Declension,Business/Money,318
-opto -are,choose# select,Verb: 1st Conjugation,Personality Traits/Characteristics,417
+opto optare,choose# select,Verb: 1st Conjugation,Personality Traits/Characteristics,417
 opus operis n.,work,Noun: 3rd Declension,Business/Money,332
 oratio oratonis f.,speech# address,Noun: 3rd Declension,Speech/Oratory,736
 orbis orbis m.,circle; orbis terrarum: world,Noun: 3rd Declension,Geography,322
 ordo orinis m.,order# rank,Noun: 3rd Declension,War and Peace,416
 orior oriri ortus sum,arise# begin,Verb: Deponent,Time,642
-oro -are,pray,Verb: 1st Conjugation,Religion,755
+oro orare,pray,Verb: 1st Conjugation,Religion,755
 os oris n.,mouth# face,Noun: 3rd Declension,The Body,147
 os ossis n.,bone,Noun: 3rd Declension,The Body,696
 ostendo ostendere ostendi ostentum,show# hold out,Verb: 3rd Conjugation -o,Other Senses,371
@@ -620,7 +619,7 @@ parco parcere peperci parsum,spare# be sparing of (+ dat.),Verb: 3rd Conjugation
 parens parentis m./f.,parent,Noun: 3rd Declension,The Household,190
 pareo parere parui,obey,Verb: 2nd Conjugation,Verbs of Compelling/Directing,847
 pario parere peperi partum,bring forth# give birth to; accomplish,Verb: 3rd Conjugation -io,Life and Being,829
-paro -are,prepare# acquire; paratus -a -um# ready,Verb: 1st Conjugation,Making/Doing,160
+paro pare,prepare# acquire; paratus -a -um# ready,Verb: 1st Conjugation,Making/Doing,160
 pars partis f.,part,Noun: 3rd Declension,Measurement,65
 parum,too little,Adverb,Measurement,204
 parvus parva parvum,small,Adjective: 1st and 2nd Declension,Measurement,143
@@ -630,23 +629,23 @@ patior pati passus sum,permit# endure,Verb: Deponent,Verbs of Compelling/Directi
 patria patrae f.,fatherland# country,Noun: 1st Declension,Geography,342
 pauci pauae paua,few# a few,Adjective: 1st and 2nd Declension,Measurement,858
 paulo# paulum,to only a small extent# slightly# a little,Adverb,Measurement,872
-pauper pauperis,poor# lowly,Adjective: 3rd Declension,Business/Money,844
+pauper paupeeris,poor# lowly,Adjective: 3rd Declension,Business/Money,844
 pax pacis f.,peace,Noun: 3rd Declension,War and Peace,388
-pecco -are,commit a wrong# injure,Verb: 1st Conjugation,Justice,792
+pecco peccare,commit a wrong# injure,Verb: 1st Conjugation,Justice,792
 pectus pectoris n.,chest# breast,Noun: 3rd Declension,The Body,183
 pecunia pecunae f.,money,Noun: 1st Declension,Business/Money,530
 pecus pecoris n.,cattle# sheep,Noun: 3rd Declension,Animals/Plants,566
 pello pellere pepuli pulsum,strike# beat# push# drive,Verb: 3rd Conjugation -o,Violence,563
 pendo pendere pependi pensum,weigh# hang# suspend; pay,Verb: 3rd Conjugation -o,Business/Money,988
 per,through (+acc.),Preposition,Place,30
-perdo -dere -didi -ditum,destroy,Verb: 3rd Conjugation -o,Violence,488
-pereo -ire -ii -itum,perish# be lost,Verb: Irregular,Violence,268
+perdo perdere perdidi perditum,destroy,Verb: 3rd Conjugation -o,Violence,488
+pereo perire perii peritum,perish# be lost,Verb: Irregular,Violence,268
 pergo pergere perrexi perrectum,continue# proceed; awaken,Verb: 3rd Conjugation -o,Motion,821
 periculum periculi n.,danger,Noun: 2nd Declension,Violence,265
-permitto -mittere -misi -missum,yield# allow# permit,Verb: 3rd Conjugation -o,Verbs of Compelling/Directing,702
+permitto permittere permittmisi permittmissum,yield# allow# permit,Verb: 3rd Conjugation -o,Verbs of Compelling/Directing,702
 perpetuus perpetua perpetuum,unbroken# perpetual,Adjective: 1st and 2nd Declension,Lengths of Time,891
-pertineo -tinere -tinui,extend over# reach; refer to# pertain to# be the business of,Verb: 2nd Conjugation,Education/Knowledge,866
-pervenio -venire -veni -ventum,arrive# reach,Verb: 4th Conjugation,Travel,409
+pertineo pertinere pertinui,extend over# reach; refer to# pertain to# be the business of,Verb: 2nd Conjugation,Education/Knowledge,866
+pervenio pervenire perveni perventum,arrive# reach,Verb: 4th Conjugation,Travel,409
 pes pedis m.,foot,Noun: 3rd Declension,The Body,199
 peto petere petivi petitum,seek# aim at,Verb: 3rd Conjugation -o,Motion,83
 pietas piettatis f.,sense of duty# devotion# esp. between parents and children,Noun: 3rd Declension,The Household,767
@@ -663,7 +662,7 @@ pono ponere posui positum,put# place; put aside,Verb: 3rd Conjugation -o,Verbs o
 pontus ponti m.,the open sea# the deep,Noun: 2nd Declension,Earth and Water,630
 populus populi m.,people,Noun: 2nd Declension,The City,122
 porta porae f.,gate,Noun: 1st Declension,The City,759
-porto -are,carry a load,Verb: 1st Conjugation,Measurement,853
+porto portare,carry a load,Verb: 1st Conjugation,Measurement,853
 posco poscere poposci,demand# claim; inquire into,Verb: 3rd Conjugation -o,Speech/Oratory,487
 possum posse potui,be able,Verb: Irregular,Making/Doing,23
 post,after (adv. and prep. +acc.),Preposition,Time,164
@@ -673,18 +672,18 @@ postquam,after,Conjunction,Time,384
 potens potentis,able# powerful,Adjective: 3rd Declension,Personality Traits/Characteristics,567
 potestas potestatis f.,power,Noun: 3rd Declension,The City,737
 potis pote,powerful# able,Adjective: 3rd Declension,Personality Traits/Characteristics,947
-praebeo -ere -ui -itum,furnish# supply# render,Verb: 2nd Conjugation,Verbs of Transport,584
+praebeo praebere praebui praebitum,furnish# supply# render,Verb: 2nd Conjugation,Verbs of Transport,584
 praeceptum praecepti n.,rule# precept; command,Noun: 2nd Declension,Justice,825
-praecipio -cipere -cepi -ceptum,anticipate# advise# warn,Verb: 3rd Conjugation -io,Speech/Oratory,945
+praecipio praecipere praecipcepi praecipceptum,anticipate# advise# warn,Verb: 3rd Conjugation -io,Speech/Oratory,945
 praeda praeae f.,booty# prey,Noun: 1st Declension,War and Peace,626
 praemium praemii n.,bounty# reward,Noun: 2nd Declension,Business/Money,680
 praesens praesentis,present# in person# ready,Adjective: 3rd Declension,Place,822
 praesidium praesidii n.,garrison# protection,Noun: 2nd Declension,War and Peace,582
-praesto -stare -stiti -stitum,excel# exhibit,Verb: 1st Conjugation,Other Senses,423
+praesto praestare praestiti praestitum,excel# exhibit,Verb: 1st Conjugation,Other Senses,423
 praeter,by# along# past; besides# except (+ acc.),Preposition,Place,756
 praeterea,besides# moreover,Adverb,Conjunctions/Adverbs,681
-praetor praetoris m.,praetor# one of the chief Roman magistrates,Noun: 3rd Declension,The City,878
-precor -ari,pray# invoke,Verb: Deponent,Religion,492
+praetor praetooris m.,praetor# one of the chief Roman magistrates,Noun: 3rd Declension,The City,878
+precor precorari,pray# invoke,Verb: Deponent,Religion,492
 premo premere pressi pressum,press# pursue# overwhelm,Verb: 3rd Conjugation -o,War and Peace,240
 pretium pretii n.,price# worth# reward; pretium operae: a reward for trouble,Noun: 2nd Declension,Business/Money,629
 prex precis f.,prayers# entreaties,Noun: 3rd Declension,Religion,520
@@ -696,17 +695,17 @@ prior prius,earlier# preceding,Adjective: 3rd Declension,Time,526
 privatus privata privatum,personal# private,Adjective: 1st and 2nd Declension,Social Life,882
 prius or priusquam,before,Adverb,Time,484
 pro,for# on behalf of# in proportion to (+abl.),Preposition,Non-Directional Prepositions,128
-probo -are,approve# prove; convince one (dat.) of a thing (acc.),Verb: 1st Conjugation,Verbs of Compelling/Directing,784
-procedo -cedere -cessi -cessum,go forth# advance,Verb: 3rd Conjugation -o,Motion,746
+probo probare,approve# prove; convince one (dat.) of a thing (acc.),Verb: 1st Conjugation,Verbs of Compelling/Directing,784
+procedo procedere procedcessi procedcessum,go forth# advance,Verb: 3rd Conjugation -o,Motion,746
 procul,at a distance,Adverb,Place,397
 prodo prodere prodidi proditum,publish# hand down; give over# betray,Verb: 3rd Conjugation -o,Verbs of Transport,929
 proelium proelii n.,battle,Noun: 2nd Declension,War and Peace,348
-proficiscor -ficisci -fectus sum,set forth# go,Verb: Deponent,Travel,835
-prohibeo -ere -ui -itum,restrain# keep away,Verb: 2nd Conjugation,Verbs of Compelling/Directing,604
-promitto -mittere -misi -missum,send forth# offer,Verb: 3rd Conjugation -o,Verbs of Compelling/Directing,720
+proficiscor proficiscorficisci proficiscorfectus sum,set forth# go,Verb: Deponent,Travel,835
+prohibeo prohibere prohibui prohibitum,restrain# keep away,Verb: 2nd Conjugation,Verbs of Compelling/Directing,604
+promitto promittere promittmisi promittmissum,send forth# offer,Verb: 3rd Conjugation -o,Verbs of Compelling/Directing,720
 prope,near# next; (comp.) propior# (superl.) proximus; (adv.) prope# nearly# almost,Preposition,Place,189
-propero -are,hasten# speed,Verb: 1st Conjugation,Motion,537
-propono -ponere -posui -positum,put forth# propose# present,Verb: 3rd Conjugation -o,Speech/Oratory,930
+propero properare,hasten# speed,Verb: 1st Conjugation,Motion,537
+propono proponere proponposui proponpositum,put forth# propose# present,Verb: 3rd Conjugation -o,Speech/Oratory,930
 proprius propria proprium,one’s own# peculiar,Adjective: 1st and 2nd Declension,Pronouns/Interrogatives,854
 propter,because of (+ acc.),Preposition,Non-Directional Prepositions,560
 prosum prodesse profui,be of use# do good# help (+ dat.),Verb: Irregular,Social Life,373
@@ -717,18 +716,18 @@ pudor pudoris m.,sense of shame# modesty# propriety,Noun: 3rd Declension,Persona
 puella puelae f.,girl; girl-friend,Noun: 1st Declension,People,233
 puer pueri m.,boy; slave,Noun: 2nd Declension,People,191
 pugna pugae f.,fist-fight; battle,Noun: 1st Declension,Violence,650
-pugno -are,fight,Verb: 1st Conjugation,Violence,708
-pulcher pulchchra pulchchrum,beautiful,Adjective: 1st and 2nd Declension,Vision,569
-puto -are,think# suppose,Verb: 1st Conjugation,Education/Knowledge,166
+pugno pugnare,fight,Verb: 1st Conjugation,Violence,708
+pulcher pulchechra pulchechrum,beautiful,Adjective: 1st and 2nd Declension,Vision,569
+puto putare,think# suppose,Verb: 1st Conjugation,Education/Knowledge,166
 qua,where# how,Pronoun,Pronouns/Interrogatives,336
-quaero -rere -sivi -situm,seek# inquire,Verb: 3rd Conjugation -o,Education/Knowledge,113
-qualis -e,of what kind? what?,Pronoun,Pronouns/Interrogatives,263
+quaero quaerere quaersivi quaersitum,seek# inquire,Verb: 3rd Conjugation -o,Education/Knowledge,113
+qualis qualise,of what kind? what?,Pronoun,Pronouns/Interrogatives,263
 quam,how?; (after comparative) than,Adverb,Pronouns/Interrogatives,29
 quamquam,however# although,Conjunction,Conjunctions/Adverbs,644
 quamvis,however you like; although,Adverb,Conjunctions/Adverbs,489
 quando,when?; since; si quando: if ever,Adverb,Pronouns/Interrogatives,621
 quantum,(adv.) how much? how greatly? how much! how greatly! as much as,Adverb,Pronouns/Interrogatives,557
-quantus -a -um,(interr.) how great? (rel.) of what size# amount# etc. (as subst.) what amount? (rel.) which amount; quanti# at what price? (rel.) at which price,Pronoun,Pronouns/Interrogatives,311
+quantus quantusa quantusum,(interr.) how great? (rel.) of what size# amount# etc. (as subst.) what amount? (rel.) which amount; quanti# at what price? (rel.) at which price,Pronoun,Pronouns/Interrogatives,311
 quare,how? why?,Adverb,Pronouns/Interrogatives,786
 quasi,as if,Adverb,Conjunctions/Adverbs,938
 quattuor,four,Adjective: Numeral,Measurement,867
@@ -756,33 +755,33 @@ quotiens,interr. how many times? how often? rel. as often as# whenever,Adverb,Pr
 rapio rapere rapui raptum,seize# tear away,Verb: 3rd Conjugation -io,Violence,273
 rarus rara rarum,wide apart# loose# thin; rare# seldom,Adjective: 1st and 2nd Declension,Measurement,752
 ratio ratonis f.,method# plan# reason,Noun: 3rd Declension,Education/Knowledge,256
-recedo -cedere -cessi -cessum,step back# recoil# recede# withdraw,Verb: 3rd Conjugation -o,Motion,826
+recedo recedere recedcessi recedcessum,step back# recoil# recede# withdraw,Verb: 3rd Conjugation -o,Motion,826
 recens recentis,fresh# new,Adjective: 3rd Declension,Time,781
-recipio -cipere -cepi -ceptum,take back# receive; se recipere# betake oneself# go,Verb: 3rd Conjugation -io,Verbs of Transport,319
+recipio recipere recipcepi recipceptum,take back# receive; se recipere# betake oneself# go,Verb: 3rd Conjugation -io,Verbs of Transport,319
 rectus recta rectum,straight# direct,Adjective: 1st and 2nd Declension,Measurement,823
-reddo -dere -didi -ditum,return# give back,Verb: 3rd Conjugation -o,Verbs of Transport,174
-redeo -ire -ii -itum,go back# return,Verb: Irregular,Motion,301
+reddo reddere reddidi redditum,return# give back,Verb: 3rd Conjugation -o,Verbs of Transport,174
+redeo redire redii reditum,go back# return,Verb: Irregular,Motion,301
 refero referre rettuli relatum,bring back; report,Verb: Irregular,Verbs of Transport,171
 regio regonis f.,boundary# region,Noun: 3rd Declension,Geography,585
 regius regia regium,kingly# royal,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,561
 regnum regni n.,kingship# kingdom,Noun: 2nd Declension,Geography,121
 rego regere rexi rectum,guide# rule,Verb: 3rd Conjugation -o,The City,554
-relinquo -linquere -liqui -lictum,abandon,Verb: 3rd Conjugation -o,Motion,144
+relinquo relinquere relinquliqui relinqulictum,abandon,Verb: 3rd Conjugation -o,Motion,144
 reliquus reliqua reliquum,remaining# rest,Adjective: 1st and 2nd Declension,Measurement,788
 reor reri ratus sum,think# imagine# suppose# deem,Verb: Deponent,Education/Knowledge,774
-reperio -perire -pperi -pertum,find# find out,Verb: 4th Conjugation,Education/Knowledge,765
-repeto -petere -petivi -petitum,demand# exact; revisit; call to mind# recollect; repeat,Verb: 3rd Conjugation -o,Verbs of Compelling/Directing,651
+reperio reperire reperpperi repertum,find# find out,Verb: 4th Conjugation,Education/Knowledge,765
+repeto repetere repetivi repetitum,demand# exact; revisit; call to mind# recollect; repeat,Verb: 3rd Conjugation -o,Verbs of Compelling/Directing,651
 res rei f.,thing (res publica# commonwealth; res familiaris# family property# estate; res militaris# art of war; res novae# revolution),Noun: 5th Declension,Life and Being,38
-respicio -ere -spexi -spectum,look back# regard# consider,Verb: 3rd Conjugation -io,Vision,722
-respondeo -spondere -spondi -sponsum,answer,Verb: 2nd Conjugation,Speech/Oratory,535
-retineo -tinere -tinui -tentum,hold back# keep,Verb: 2nd Conjugation,Verbs of Compelling/Directing,647
-reverto -vertere -verti,turn back,Verb: 3rd Conjugation -o,Motion,995
-revoco -are,call back# recall,Verb: 1st Conjugation,Social Life,813
+respicio respicere respicspexi respicspectum,look back# regard# consider,Verb: 3rd Conjugation -io,Vision,722
+respondeo respondere respondi respondsponsum,answer,Verb: 2nd Conjugation,Speech/Oratory,535
+retineo retinere retinui retintentum,hold back# keep,Verb: 2nd Conjugation,Verbs of Compelling/Directing,647
+reverto revertere reverti,turn back,Verb: 3rd Conjugation -o,Motion,995
+revoco revocare,call back# recall,Verb: 1st Conjugation,Social Life,813
 reus rei m.,defendant,Noun: 2nd Declension,Justice,888
 rex regis m.,king,Noun: 3rd Declension,The City,60
-rideo -ere risi risum,laugh# laugh at,Verb: 3rd Conjugation -o,Emotions,874
+rideo ridere risi risum,laugh# laugh at,Verb: 3rd Conjugation -o,Emotions,874
 ripa riae f.,bank of a river,Noun: 1st Declension,Earth and Water,662
-rogo -are,ask,Verb: 1st Conjugation,Speech/Oratory,551
+rogo rogare,ask,Verb: 1st Conjugation,Speech/Oratory,551
 rumpo rumpere rupi ruptum,break# rupture,Verb: 3rd Conjugation -o,Violence,480
 rursus,back# again,Adverb,Place,440
 rus ruris n.,country,Noun: 3rd Declension,Geography,879
@@ -802,7 +801,7 @@ saxum saxi n.,rock# cliff# crag,Noun: 2nd Declension,Earth and Water,306
 scelus sceleris n.,crime# sin,Noun: 3rd Declension,Justice,154
 scientia scientae f.,knowledge,Noun: 1st Declension,Education/Knowledge,971
 scilicet,certainly# of course,Adverb,Conjunctions/Adverbs,889
-scio -ire -ivi/-ii -itum,know,Verb: 4th Conjugation,Education/Knowledge,172
+scio scire scivi scitum,know,Verb: 4th Conjugation,Education/Knowledge,172
 scribo scribere scripsi scriptum,write,Verb: 3rd Conjugation -o,Writing/Poetry,568
 secundus secunda secundum,following; favorable; (as numeral) second,Adjective: 1st and 2nd Declension,Measurement,836
 securus secura securum,free from care# tranquil; careless,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,697
@@ -819,8 +818,8 @@ sentio sentire sensi sensum,perceive# feel# hear# see,Verb: 4th Conjugation,Othe
 sepulcrum sepulcri n.,place of burial# tomb# grave,Noun: 2nd Declension,Life and Being,949
 sequor sequi secutus sum,follow,Verb: Deponent,Motion,108
 sermo seronis m.,conversation# discourse,Noun: 3rd Declension,Speech/Oratory,575
-servio -ire,be a slave# serve (+ dat.),Verb: 4th Conjugation,The Household,883
-servo -are,save# watch over,Verb: 1st Conjugation,The Household,289
+servio servire,be a slave# serve (+ dat.),Verb: 4th Conjugation,The Household,883
+servo servare,save# watch over,Verb: 1st Conjugation,The Household,289
 servus servi m.,slave,Noun: 2nd Declension,The Household,496
 seu,whether; seu ... seu: whether ... or → sive,Conjunction,Conjunctions/Adverbs,343
 si,if,Conjunction,Conjunctions/Adverbs,16
@@ -838,29 +837,29 @@ sinus sinus m.,fold of a garment; lap# bay# gulf,Noun: 4th Declension,Earth and 
 sive,whether; sive ... sive: whether ... or → seu,Conjunction,Conjunctions/Adverbs,362
 socius socia socium,friendly# allied; socius -i m.: partner# comrade,Adjective: 1st and 2nd Declension,Social Life,372
 sol solis m.,sun,Noun: 3rd Declension,Air and Fire,320
-soleo -ere -ui -itum,be accustomed,Verb: 2nd Conjugation,Personality Traits/Characteristics,246
+soleo solere solui solitum,be accustomed,Verb: 2nd Conjugation,Personality Traits/Characteristics,246
 solum,only# merely,Adverb,Measurement,897
 solvo solvere solvi solutum,release# set sail,Verb: 3rd Conjugation -o,Travel,325
 solus sola solum,only# alone,Adjective: 1st and 2nd Declension,Measurement,176
 somnus somni m.,sleep# slumber; (pl.) dreams,Noun: 2nd Declension,Life and Being,438
 sono sonare sonui sonitum,sound# resound,Verb: 1st Conjugation,Other Senses,583
-soror sororis f.,sister,Noun: 3rd Declension,The Household,497
+soror sorooris f.,sister,Noun: 3rd Declension,The Household,497
 sors sortis f.,lot# fate# destiny; oracle,Noun: 3rd Declension,Religion,639
 spargo spargere sparsi sparsum,scatter,Verb: 3rd Conjugation -o,Earth and Water,532
 spatium spatii n.,space,Noun: 2nd Declension,Air and Fire,426
 species speciei f.,aspect# appearance,Noun: 5th Declension,Vision,599
-specto -are,look at# consider,Verb: 1st Conjugation,Vision,473
-spero -are,to hope,Verb: 1st Conjugation,Emotions,648
+specto spectare,look at# consider,Verb: 1st Conjugation,Vision,473
+spero sperare,to hope,Verb: 1st Conjugation,Emotions,648
 spes spei f.,hope,Noun: 5th Declension,Emotions,232
 spiritus spiritus m.,breath# life# spirit,Noun: 4th Declension,Life and Being,703
 statim,immediately,Adverb,Time,798
-statuo -ere -ui -utum,set up# determine,Verb: 3rd Conjugation -o,Justice,678
+statuo statuere statui statutum,set up# determine,Verb: 3rd Conjugation -o,Justice,678
 stella stelae f.,star,Noun: 1st Declension,Air and Fire,934
 sto stare steti statum,stand,Verb: 1st Conjugation,Life and Being,168
-studeo -ere -ui,be eager# be zealous# care for (+ dat.),Verb: 2nd Conjugation,Emotions,989
+studeo studere studui,be eager# be zealous# care for (+ dat.),Verb: 2nd Conjugation,Emotions,989
 studium studii n.,eagerness# zeal,Noun: 2nd Declension,Emotions,450
 sub,under# close to (+acc. or abl.),Preposition,Place,118
-subeo -ire -ii -itum,go under; endure,Verb: Irregular,Motion,538
+subeo subire subii subitum,go under; endure,Verb: Irregular,Motion,538
 subito,suddenly# unexpectedly,Adverb,Time,848
 sui sibi se/sese,him- her- itself# themselves,Pronoun,Pronouns/Interrogatives,17
 sum esse fui futurum,be# exist; fut. infin. often = fore# impf. subj. often = forem for essem,Verb: Irregular,Life and Being,2
@@ -868,16 +867,16 @@ sumo sumere sumpsi sumptum,take up,Verb: 3rd Conjugation -o,Motion,454
 super,over (adv. and prep. +acc.),Adverb,Place,401
 superbus superba superbum,overbearing# proud# haughty,Adjective: 1st and 2nd Declension,Personality Traits/Characteristics,656
 superi supeorum m. pl.,those above# i.e. the gods,Noun: 2nd Declension,Religion,714
-supero -are,overcome# surpass# defeat,Verb: 1st Conjugation,War and Peace,668
-supersum -esse -fui,remain# survive; be superfluous (to),Verb: Irregular,Place,623
+supero superare,overcome# surpass# defeat,Verb: 1st Conjugation,War and Peace,668
+supersum supersumesse supersumfui,remain# survive; be superfluous (to),Verb: Irregular,Place,623
 superus supera superum,situated above# upper,Adjective: 1st and 2nd Declension,Religion,99
 supplicium supplicii n.,punishment# penalty,Noun: 2nd Declension,Justice,683
 supra,above# beyond (adv. and prep. +acc.),Preposition,Place,588
 surgo surgere surrexi surrectum,rise,Verb: 3rd Conjugation -o,Earth and Water,570
-suscipio -cipere -cepi ceptum,take up,Verb: 3rd Conjugation -io,Verbs of Transport,937
+suscipio suscipere suscipcepi ceptum,take up,Verb: 3rd Conjugation -io,Verbs of Transport,937
 sustineo sustinere sustinui sustentum,hold up# sustain,Verb: 2nd Conjugation,Social Life,762
 suus sua suum,his own# her own# its own,Adjective: 1st and 2nd Declension,Pronouns/Interrogatives,27
-taceo -ere -ui -itum,be silent; tacitus -a -um# silent,Verb: 2nd Conjugation,Other Senses,369
+taceo tacere tacui tacitum,be silent; tacitus -a -um# silent,Verb: 2nd Conjugation,Other Senses,369
 talis tale,such,Adjective: 3rd Declension,Measurement,203
 tam,so# so much,Adverb,Conjunctions/Adverbs,96
 tamen,nevertheless# still,Conjunction,Conjunctions/Adverbs,58
@@ -896,29 +895,29 @@ templum templi n.,consecrated ground; temple,Noun: 2nd Declension,Religion,485
 tempus temporis n.,time,Noun: 3rd Declension,Time,89
 tendo tendere tetendi tentum,stretch# extend# direct (one’s steps or course),Verb: 3rd Conjugation -o,Travel,529
 tenebrae tenebrbrarum f. pl.,darkness# the shadows,Noun: 1st Declension,Vision,775
-teneo -ere -ui tentum,hold# keep,Verb: 2nd Conjugation,Other Senses,106
-tener tenera tenerum,tender,Adjective: 1st and 2nd Declension,Other Senses,490
-tempto -are,try# test,Verb: 1st Conjugation,Making/Doing,430
+teneo tenere tenui tentum,hold# keep,Verb: 2nd Conjugation,Other Senses,106
+tener teneera teneerum,tender,Adjective: 1st and 2nd Declension,Other Senses,490
+tempto temptare,try# test,Verb: 1st Conjugation,Making/Doing,430
 tergum tergi n.,back# rear; a tergo: from the rear,Noun: 2nd Declension,The Body,474
 terra terae f.,land,Noun: 1st Declension,Earth and Water,70
 terreo terrere terrui territum,terrify# frighten,Verb: 2nd Conjugation,Emotions,705
 tertius tertia tertium,third,Adjective: 1st and 2nd Declension,Measurement,682
 testis testis m.,witness,Noun: 3rd Declension,Justice,741
-timeo -ere -ui,to fear# to dread,Verb: 2nd Conjugation,Emotions,153
-timor timoris m.,fear,Noun: 3rd Declension,Emotions,536
+timeo timere timui,to fear# to dread,Verb: 2nd Conjugation,Emotions,153
+timor timooris m.,fear,Noun: 3rd Declension,Emotions,536
 tollo tollere sustuli sublatum,raise up# destroy,Verb: Irregular,Violence,293
 tot,so many,Adverb,Measurement,259
 totus tota totum,whole# entire,Adjective: 1st and 2nd Declension,Measurement,78
-trado -dere -didi -ditum,hand over# yield,Verb: 3rd Conjugation -o,Business/Money,297
+trado tradere tradidi traditum,hand over# yield,Verb: 3rd Conjugation -o,Business/Money,297
 traho trahere traxi tractum,drag# draw,Verb: 3rd Conjugation -o,Verbs of Compelling/Directing,213
-transeo -ire -ii -itum,go across,Verb: Irregular,Travel,431
+transeo transire transii transitum,go across,Verb: Irregular,Travel,431
 tres tria,three,Adjective: Numeral,Measurement,533
 tribunus tribuni m.,tribune# title of various Roman officials# as militum# plebis# aerarii,Noun: 2nd Declension,The City,807
 tristis triste,sad# solemn# grim,Adjective: 3rd Declension,Emotions,275
 tu tui tibi te,you (sing.),Pronoun,Pronouns/Interrogatives,9
 tum or tunc,then,Adverb,Time,56
 turba turae f.,crowd# uproar,Noun: 1st Declension,The City,323
-turbo -are,disturb# confuse,Verb: 1st Conjugation,Speech/Oratory,868
+turbo turbare,disturb# confuse,Verb: 1st Conjugation,Speech/Oratory,868
 turpis turpe,ugly# unsightly; disgraceful,Adjective: 3rd Declension,Other Senses,377
 tutus tuta tutum,safe# protected,Adjective: 1st and 2nd Declension,War and Peace,365
 tuus tua tuum,your,Adjective: 1st and 2nd Declension,Pronouns/Interrogatives,44
@@ -946,11 +945,11 @@ verus vera verum,true,Adjective: 1st and 2nd Declension,Speech/Oratory,410
 vester vestra vestrum,your,Adjective: 1st and 2nd Declension,Pronouns/Interrogatives,282
 vestigium vestigii n.,footstep# footprint# track,Noun: 2nd Declension,Travel,716
 vestis vestis f.,garment# robe# clothing,Noun: 3rd Declension,Life and Being,413
-veto -are vetui vetitum,forbid,Verb: 1st Conjugation,Verbs of Compelling/Directing,665
+veto vetare vetui vetitum,forbid,Verb: 1st Conjugation,Verbs of Compelling/Directing,665
 vetus veteris,old,Adjective: 3rd Declension,Time,295
 via vae f.,way# street,Noun: 1st Declension,Travel,196
 vicinus vicina vicinum,neighboring# near,Adjective: 1st and 2nd Declension,Geography,940
-victor victoris m.,conqueror,Noun: 3rd Declension,War and Peace,340
+victor victooris m.,conqueror,Noun: 3rd Declension,War and Peace,340
 victoria victorae f.,victory,Noun: 1st Declension,War and Peace,750
 video videre vidi visum,see,Verb: 2nd Conjugation,Vision,31
 vinco vincere vici victum,conquer,Verb: 3rd Conjugation -o,War and Peace,101
@@ -962,7 +961,7 @@ virtus virtutis f.,valor# manliness# virtue,Noun: 3rd Declension,Personality Tra
 vis f.,force; (acc.) vim# (abl.) vi; (pl.) vires# strength,Noun: 3rd Declension,War and Peace,115
 vita viae f.,life,Noun: 1st Declension,Life and Being,87
 vitium vitii n.,flaw# fault# crime,Noun: 2nd Declension,Justice,326
-vito -are,avoid# shun,Verb: 1st Conjugation,Social Life,881
+vito vitare,avoid# shun,Verb: 1st Conjugation,Social Life,881
 vivo vivere vixi victum,live,Verb: 3rd Conjugation -o,Life and Being,156
 vix,scarcely,Adverb,Conjunctions/Adverbs,352
 ullus ulla ullum,any# anyone,Adjective: 1st and 2nd Declension,Pronouns/Interrogatives,178
@@ -974,9 +973,9 @@ unda unae f.,wave# flowing water# water,Noun: 1st Declension,Earth and Water,207
 unde,from where,Adverb,Place,300
 undique,from all sides# on all sides,Adverb,Place,686
 unus una unum,one,Adjective: 1st and 2nd Declension,Measurement,53
-voco -are,call,Verb: 1st Conjugation,Speech/Oratory,158
+voco vocare,call,Verb: 1st Conjugation,Speech/Oratory,158
 volo velle volui,wish# be willing,Verb: Irregular,Emotions,66
-volucer voluccris voluccre,flying,Adjective: 3rd Declension,Animals/Plants,977
+volucer volucecris volucecre,flying,Adjective: 3rd Declension,Animals/Plants,977
 volucris volucris f./m.,bird,Noun: 3rd Declension,Animals/Plants,976
 voluntas voluntatis f.,wish# desire,Noun: 3rd Declension,Emotions,859
 voluptas voluptatis f.,pleasure# enjoyment,Noun: 3rd Declension,Social Life,378
