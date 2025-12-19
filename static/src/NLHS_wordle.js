@@ -76,5 +76,9 @@ function get_guess() {
         });
     
     // increment row
-    if(row_num < max_row) {row_num++}
+    if(row_num < max_row) {
+        row_num++
+    } else {
+        alert("Out of Guesses, L")
+    }
 }

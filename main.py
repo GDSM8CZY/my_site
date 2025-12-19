@@ -44,8 +44,6 @@ def NLHS_wordle():
 # Endpoint to get the daily word
 @app.route("/NLHS_wordle/get_daily_word")
 def NLHS_get_daily_word():
-    print(word)
-    print(deff)
     return {
         "deff": deff,
         "word": word
