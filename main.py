@@ -1,6 +1,7 @@
 import flask
 import csv
 import random
+from waitress import serve
 
 app = flask.Flask(__name__)
 
@@ -62,5 +63,7 @@ def NLHS_check_guess(guess):
             result.append("absent")
     return {"result": result}
 
-if __name__ == "__main__":
-    app.run(debug=True)
+# if __name__ == "__main__":
+#     app.run(debug=True)
+
+serve(app, host='0.0.0.0', port=5001)
