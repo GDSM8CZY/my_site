@@ -72,6 +72,11 @@ function get_guess() {
             // If the result only contains "correct", the user has guessed the word
             if (result.every(status => status === "correct")) {
                 alert("Congratulations! You guessed the word!");
+                // disable all the cells
+                let cells = document.querySelectorAll(".cell")
+                for(let i=0; i<cells.length; i++) {
+                    cells[i].disabled = true;
+                }
             }
         });
     
