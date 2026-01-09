@@ -49,6 +49,10 @@
 @keyframes flip {
     0% {
         transform: rotateX(0deg);
+        background-color: gray;
+    }
+    49% {
+        background-color: gray;
     }
     50% {
         transform: rotateX(90deg);
