@@ -11,11 +11,10 @@
     {% for row in grid%}
         <div class="row" id="{{ row[0][0:2] }}">
             {% for cell in row%}
-                <input class="cell" id="{{ cell }}" maxlength=1 autocomplete="off" disabled></input>
+                <input class="cell" id="{{ cell }}" maxlength=1 autocomplete="off" onkeypress="get_guess(event)" disabled></input>
             {% endfor %}
         </div>
     {% endfor %}
 </div>
-<button class="btn" onclick="get_guess('R0')">test</button>
 <script src="{{ url_for('static', filename='src/NLHS_wordle.js') }}"></script>
 {% endblock %}

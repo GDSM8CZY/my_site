@@ -35,7 +35,12 @@ fetch("/NLHS_wordle/get_daily_word")
     })
 
 // Function to check the user's guess
-function get_guess() {
+function get_guess(event) {
+    // do nothing if the key is not enter
+    if(event.key != 'Enter') {
+        return "not submited";
+    }
+
     const row = document.getElementById("R" + row_num);
     let cells = row.querySelectorAll("input.cell");
     let guess = "";
