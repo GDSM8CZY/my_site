@@ -61,12 +61,12 @@ def NLHS_check_guess(guess):
     # First pass for all the green letters
     for i in range(len(word)):
         if guess[i] == word[i]:
-            result[i] == 'correct'
+            result[i] = 'correct'
             word_count[guess[i]] -= 1
     
     # Second pass to find yellow letters
     for i in range(len(word)):
-        if result[i] == 'absent' and word_count.get(guess[i], 0) < 0:
+        if result[i] == 'absent' and word_count.get(guess[i], 0) > 0:
             result[i] = 'present'
             word_count[guess[i]] -= 1
     
