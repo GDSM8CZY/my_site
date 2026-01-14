@@ -13,17 +13,16 @@ fetch("/NLHS_wordle/get_daily_word")
         // Add event listeners to inputs now that max_row is known
         for (let i = 0; i < max_row; i++) {
             const row = document.getElementById("R" + i);
-            if (!row) continue;
             const cells = row.querySelectorAll("input.cell");
             cells.forEach((cell, index) => {
-                cell.addEventListener('keyup', function (event) {
+                cell.addEventListener('keydown', function (event) {
                     if (cell.value.length >= 1 && event.key != 'Backspace') {
                         if (index + 1 < cells.length) {
                             cells[index + 1].focus();
                         }
                     } else if (cell[index] = document.activeElement) {
-                        if (index > 0 && event.key == 'Backspace') {
-                            cells[index - 1].value = '';
+                        if (index > 0 && cells[cells.length - 1].value == '') {
+                            cell.value = '';
                             cells[index - 1].focus();
                         }
                     }
