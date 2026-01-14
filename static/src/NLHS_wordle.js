@@ -16,10 +16,14 @@ fetch("/NLHS_wordle/get_daily_word")
             if (!row) continue;
             const cells = row.querySelectorAll("input.cell");
             cells.forEach((cell, index) => {
-                cell.addEventListener('input', function () {
+                cell.addEventListener('keydown', function (event) {
                     if (cell.value.length >= 1) {
                         if (index + 1 < cells.length) {
                             cells[index + 1].focus();
+                        }
+                    } else if (cell[index] = document.activeElement) {
+                        if (index > 0 || event.key == 'Backspace') {
+                            cells[index - 1].focus();
                         }
                     }
                 });

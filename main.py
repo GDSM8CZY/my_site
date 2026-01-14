@@ -1,3 +1,4 @@
+from collections import Counter
 import flask
 import csv
 import random
@@ -18,7 +19,7 @@ def pick_latin_word():
         
     word_list = list(word_dict.keys())
 
-    word = random.choice(word_list)
+    word = random.choice(word_list).replace('#', '')
     deff = word_dict[word][1] + "; " + word_dict[word][0]
 
     return word.split()[0], deff
@@ -54,14 +55,21 @@ def NLHS_get_daily_word():
 # Endpoint to check the user's guess
 @app.route("/NLHS_wordle/check_guess/<guess>")
 def NLHS_check_guess(guess):
-    result = []
+    result = ['absent'] * len(word)
+    word_count = Counter(word)
+
+    # First pass for all the green letters
     for i in range(len(word)):
         if guess[i] == word[i]:
-            result.append("correct")
-        elif guess[i] in word:
-            result.append("present")
-        else:
-            result.append("absent")
+            result[i] == 'correct'
+            word_count[guess[i]] -= 1
+    
+    # Second pass to find yellow letters
+    for i in range(len(word)):
+        if result[i] == 'absent' and word_count.get(guess[i], 0) < 0:
+            result[i] = 'present'
+            word_count[guess[i]] -= 1
+    
     return {"result": result}
 
 if __name__ == "__main__":
