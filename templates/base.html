@@ -6,11 +6,11 @@
         <title> {% block title  %} {% endblock %}</title>
     </head>
     <body>
+        <ul>
+            <li><a class="nav_btn" href="{{ url_for('home') }}">Home</a></li>
+            <li><a class="nav_btn" href="{{ url_for('NLHS_wordle') }}">NLHS wordle</a></li>
+        </ul>
         <h1>{{ self.title() }}</h1>
         {% block content %} {% endblock %}
-        <nav>
-            <a class="btn" href="{{ url_for('home') }}">Home</a>
-            <a class="btn" href="{{ url_for('NLHS_wordle') }}">NLHS wordle</a>
-        </nav>
     </body>
 </html>
