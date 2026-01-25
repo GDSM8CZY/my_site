@@ -113,20 +113,17 @@ function get_guess(event) {
                 }
 
                 // increment row
-                if(row_num < max_row) {row_num++}
+                if(row_num < max_row) {
+                    row_num++
+                } else {
+                    Swal.fire({
+                        title: "You lose",
+                        text: "You did not guess the word",
+                        icon: "warning",
+                        confirmButtonText: "OK",
+                        theme: "dark"
+                    });
+                }
             }
         });
-    
-    // increment row
-    if(row_num < max_row) {
-        row_num++
-    } else {
-        Swal.fire({
-            title: "You lose",
-            text: "You did not guess the word",
-            icon: "warning",
-            confirmButtonText: "OK",
-            theme: "dark"
-        });
-    }
 }
