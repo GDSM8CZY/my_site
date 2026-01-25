@@ -28,6 +28,7 @@ ul {
 
 .text_zone {
     display: flex;
+    flex-direction: column;
     width: 50%;
     align-self: center;
     justify-content: center;

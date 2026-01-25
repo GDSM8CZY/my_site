@@ -1,4 +1,7 @@
+from collections import Counter
 import flask
+import requests
+from bs4 import BeautifulSoup
 import csv
 import random
 from waitress import serve
@@ -19,13 +22,31 @@ def pick_latin_word():
         
     word_list = list(word_dict.keys())
 
-    word = random.choice(word_list)
+    word = random.choice(word_list).replace('#', '')
     deff = word_dict[word][1] + "; " + word_dict[word][0]
 
     return word.split()[0], deff
 
 
 word, deff = pick_latin_word()
+
+def is_latin(word):
+    '''
+    Docstring for is_latin
+
+    Checks if a given word is a valid Latin word.
+
+    
+    :param word: The word to check
+    :return: True if the word is latin, False otherwise
+    '''
+    url = f"https://latin-words.com/cgi-bin/translate.cgi?query={word}"
+    response = requests.get(url)
+    data = response.json()
+    if 'UNKNOWN' in data['message']:
+        return False
+    return True
+    
 
 # Endpoint to serve the home page
 @app.route("/")
@@ -53,14 +74,31 @@ def NLHS_get_daily_word():
 # Endpoint to check the user's guess
 @app.route("/NLHS_wordle/check_guess/<guess>")
 def NLHS_check_guess(guess):
-    result = []
+    '''
+    Docstring for NLHS_check_guess
+    
+    :param guess: The user's guessed word
+    :return: A dictionary with the result of the guess, or 'invalid' if the guess is not latin
+    '''
+    # Return early if the guess is not latin
+    if not is_latin(guess):
+        return {"result": "invalid"}
+
+    result = ['absent'] * len(word)
+    word_count = Counter(word)
+
+    # First pass for all the green letters
     for i in range(len(word)):
         if guess[i] == word[i]:
-            result.append("correct")
-        elif guess[i] in word:
-            result.append("present")
-        else:
-            result.append("absent")
+            result[i] = 'correct'
+            word_count[guess[i]] -= 1
+    
+    # Second pass to find yellow letters
+    for i in range(len(word)):
+        if result[i] == 'absent' and word_count.get(guess[i], 0) > 0:
+            result[i] = 'present'
+            word_count[guess[i]] -= 1
+    
     return {"result": result}
 
 # if __name__ == "__main__":
