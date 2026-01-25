@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 import random
+from waitress import serve
 
 app = flask.Flask(__name__)
 
@@ -65,8 +66,6 @@ def NLHS_wordle():
 # Endpoint to get the daily word
 @app.route("/NLHS_wordle/get_daily_word")
 def NLHS_get_daily_word():
-    print(word)
-    print(deff)
     return {
         "deff": deff,
         "word": word
@@ -102,5 +101,7 @@ def NLHS_check_guess(guess):
     
     return {"result": result}
 
-if __name__ == "__main__":
-    app.run(debug=True)
+# if __name__ == "__main__":
+#     app.run(debug=True)
+
+serve(app, host='0.0.0.0', port=5001)

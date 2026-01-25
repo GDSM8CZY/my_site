@@ -1,2 +1,4 @@
 Flask==3.0.0
-bs4==0.0.1
+# waitress-serve --port=5000 --host=0.0.0.0 main:app
+# will be running on 127.0.0.1:5000
+waitress==2.1.2

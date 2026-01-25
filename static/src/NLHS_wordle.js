@@ -116,4 +116,17 @@ function get_guess(event) {
                 if(row_num < max_row) {row_num++}
             }
         });
+    
+    // increment row
+    if(row_num < max_row) {
+        row_num++
+    } else {
+        Swal.fire({
+            title: "You lose",
+            text: "You did not guess the word",
+            icon: "warning",
+            confirmButtonText: "OK",
+            theme: "dark"
+        });
+    }
 }
