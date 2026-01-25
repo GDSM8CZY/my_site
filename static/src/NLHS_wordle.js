@@ -59,36 +59,42 @@ function get_guess(event) {
         }
     }
     console.log(guess);
-    // disable all the cells when row is complete and enable the next row
-    for (let i = 0; i < cells.length; i++) {cells[i].disabled = true}
-    try {
-        const next_cells = document.getElementById("R" + (row_num + 1)).querySelectorAll("input.cell");
-        for(let i=0; i<next_cells.length; i++) {
-            next_cells[i].disabled = false;
-        }
-    } catch {}
-
     // Send the guess to the server for checking
     fetch("/NLHS_wordle/check_guess/" + guess)
         .then(res => res.json())
         .then(data => {
             const result = data.result;
-            for (let i = 0; i < result.length; i++) {
-                let cell = row.children[i]
+            // Check if the guess is valid
+            if (result === "invalid") {
+                alert("Invalid word. Please try again.");
+                return;
+            } else {
+                // disable all the cells when row is complete and enable the next row
+                for (let i = 0; i < cells.length; i++) {cells[i].disabled = true}
+                try {
+                    const next_cells = document.getElementById("R" + (row_num + 1)).querySelectorAll("input.cell");
+                    for(let i=0; i<next_cells.length; i++) {
+                        next_cells[i].disabled = false;
+                    }
+                } catch {}
+
                 // Update cell color based on the result
-                cell.classList.add(result[i])
-            }
-            // If the result only contains "correct", the user has guessed the word
-            if (result.every(status => status === "correct")) {
-                alert("Congratulations! You guessed the word!");
-                // disable all the cells
-                let cells = document.querySelectorAll(".cell")
-                for(let i=0; i<cells.length; i++) {
-                    cells[i].disabled = true;
+                for (let i = 0; i < result.length; i++) {
+                    let cell = row.children[i]
+                    cell.classList.add(result[i])
                 }
+
+                // If the result only contains "correct", the user has guessed the word
+                if (result.every(status => status === "correct")) {
+                    alert("Congratulations! You guessed the word!");
+                    // disable all the cells
+                    let cells = document.querySelectorAll(".cell")
+                    cells.forEach((cell) => { cell.disabled = true; });
+
+                }
+
+                // increment row
+                if(row_num < max_row) {row_num++}
             }
         });
-    
-    // increment row
-    if(row_num < max_row) {row_num++}
 }

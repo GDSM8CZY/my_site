@@ -1,5 +1,7 @@
 from collections import Counter
 import flask
+import requests
+from bs4 import BeautifulSoup
 import csv
 import random
 
@@ -26,6 +28,24 @@ def pick_latin_word():
 
 
 word, deff = pick_latin_word()
+
+def is_latin(word):
+    '''
+    Docstring for is_latin
+
+    Checks if a given word is a valid Latin word.
+
+    
+    :param word: The word to check
+    :return: True if the word is latin, False otherwise
+    '''
+    url = f"https://latin-words.com/cgi-bin/translate.cgi?query={word}"
+    response = requests.get(url)
+    data = response.json()
+    if 'UNKNOWN' in data['message']:
+        return False
+    return True
+    
 
 # Endpoint to serve the home page
 @app.route("/")
@@ -55,6 +75,16 @@ def NLHS_get_daily_word():
 # Endpoint to check the user's guess
 @app.route("/NLHS_wordle/check_guess/<guess>")
 def NLHS_check_guess(guess):
+    '''
+    Docstring for NLHS_check_guess
+    
+    :param guess: The user's guessed word
+    :return: A dictionary with the result of the guess, or 'invalid' if the guess is not latin
+    '''
+    # Return early if the guess is not latin
+    if not is_latin(guess):
+        return {"result": "invalid"}
+
     result = ['absent'] * len(word)
     word_count = Counter(word)
 
