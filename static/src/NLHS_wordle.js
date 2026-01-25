@@ -54,7 +54,14 @@ function get_guess(event) {
         guess += cell.value
         // If the guess is not full, return early
         if (cell.value === "") {
-            alert("Please fill in all letters before submitting your guess.");
+            // alert("Please fill in all letters before submitting your guess.");
+            Swal.fire({
+                title: "Incomplete Guess",
+                text: "Please fill in all letters before submitting your guess.",
+                icon: "warning",
+                confirmButtonText: "OK",
+                theme: "dark"
+            })
             return;
         }
     }
@@ -66,7 +73,13 @@ function get_guess(event) {
             const result = data.result;
             // Check if the guess is valid
             if (result === "invalid") {
-                alert("Invalid word. Please try again.");
+                Swal.fire({
+                    title: "Invalid Word",
+                    text: "Please try again.",
+                    icon: "error",
+                    confirmButtonText: "OK",
+                    theme: "dark"
+                });
                 return;
             } else {
                 // disable all the cells when row is complete and enable the next row
@@ -86,7 +99,13 @@ function get_guess(event) {
 
                 // If the result only contains "correct", the user has guessed the word
                 if (result.every(status => status === "correct")) {
-                    alert("Congratulations! You guessed the word!");
+                    Swal.fire({
+                        title: "Congratulations!",
+                        text: "You guessed the word!",
+                        icon: "success",
+                        confirmButtonText: "OK",
+                        theme: "dark"
+                    });
                     // disable all the cells
                     let cells = document.querySelectorAll(".cell")
                     cells.forEach((cell) => { cell.disabled = true; });
