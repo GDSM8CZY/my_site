@@ -21,7 +21,7 @@ fetch("/NLHS_wordle/get_daily_word")
                             cells[index + 1].focus();
                         }
                     } else if (cell[index] = document.activeElement) {
-                        if (index > 0 && cells[cells.length - 1].value == '') {
+                        if (index > 0 && cell.value == '') {
                             cell.value = '';
                             cells[index - 1].focus();
                         }
