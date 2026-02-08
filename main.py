@@ -1,10 +1,10 @@
 from collections import Counter
+from cltk.lexicon.lat import LatinLexicon
 import flask
 import requests
 from bs4 import BeautifulSoup
 import csv
 import random
-from waitress import serve
 
 app = flask.Flask(__name__)
 
@@ -40,12 +40,15 @@ def is_latin(word):
     :param word: The word to check
     :return: True if the word is latin, False otherwise
     '''
-    url = f"https://latin-words.com/cgi-bin/translate.cgi?query={word}"
-    response = requests.get(url)
-    data = response.json()
-    if 'UNKNOWN' in data['message']:
-        return False
-    return True
+    # Testing using CLTK's LatinLexicon
+    latin_dict = LatinLexicon()
+    return word in latin_dict.words
+    # url = f"https://latin-words.com/cgi-bin/translate.cgi?query={word}"
+    # response = requests.get(url)
+    # data = response.json()
+    # if 'UNKNOWN' in data['message']:
+    #     return False
+    # return True
     
 
 # Endpoint to serve the home page
@@ -101,7 +104,5 @@ def NLHS_check_guess(guess):
     
     return {"result": result}
 
-# if __name__ == "__main__":
-#     app.run(debug=True)
-
-serve(app, host='0.0.0.0', port=5001)
+if __name__ == "__main__":
+    app.run(host='0.0.0.0', port=5000, debug=False)
