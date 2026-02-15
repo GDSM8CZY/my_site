@@ -2,7 +2,7 @@ let row_num = 0;
 let max_row = 0;
 
 // Fetch the daily word from the server
-fetch("/NLHS_wordle/get_daily_word")
+fetch("/latin_wordle/get_daily_word")
     .then(res => res.json())
     .then(data => {
         const word = data.word;
@@ -67,7 +67,7 @@ function get_guess(event) {
     }
     console.log(guess);
     // Send the guess to the server for checking
-    fetch("/NLHS_wordle/check_guess/" + guess)
+    fetch("/latin_wordle/check_guess/" + guess)
         .then(res => res.json())
         .then(data => {
             const result = data.result;

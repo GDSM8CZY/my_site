@@ -1,5 +1,5 @@
 from collections import Counter
-from cltk.lexicon.lat import LatinLexicon
+# from cltk.lexicon.lat import LatinLexicon
 import flask
 import requests
 from bs4 import BeautifulSoup
@@ -41,14 +41,14 @@ def is_latin(word):
     :return: True if the word is latin, False otherwise
     '''
     # Testing using CLTK's LatinLexicon
-    latin_dict = LatinLexicon()
-    return word in latin_dict.words
-    # url = f"https://latin-words.com/cgi-bin/translate.cgi?query={word}"
-    # response = requests.get(url)
-    # data = response.json()
-    # if 'UNKNOWN' in data['message']:
-    #     return False
-    # return True
+    # latin_dict = LatinLexicon()
+    # return word in latin_dict.words
+    url = f"https://latin-words.com/cgi-bin/translate.cgi?query={word}"
+    response = requests.get(url)
+    data = response.json()
+    if 'UNKNOWN' in data['message']:
+        return False
+    return True
     
 
 # Endpoint to serve the home page
@@ -57,17 +57,17 @@ def home():
     return flask.render_template("home.html")
 
 # Endpoint to serve the NLHS Wordle game page
-@app.route("/NLHS_wordle")
-def NLHS_wordle():
+@app.route("/latin_wordle")
+def latin_wordle():
     row = len(word) + 1
     col = len(word)
 
     grid = [[f"R{r}C{c}" for c in range(col)] for r in range(row)]
 
-    return flask.render_template("NLHS_wordle.html", grid=grid)
+    return flask.render_template("latin_wordle.html", grid=grid)
 
 # Endpoint to get the daily word
-@app.route("/NLHS_wordle/get_daily_word")
+@app.route("/latin_wordle/get_daily_word")
 def NLHS_get_daily_word():
     return {
         "deff": deff,
@@ -75,7 +75,7 @@ def NLHS_get_daily_word():
         }
 
 # Endpoint to check the user's guess
-@app.route("/NLHS_wordle/check_guess/<guess>")
+@app.route("/latin_wordle/check_guess/<guess>")
 def NLHS_check_guess(guess):
     '''
     Docstring for NLHS_check_guess
