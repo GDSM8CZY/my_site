@@ -3,3 +3,4 @@ Flask==3.0.0
 # will be running on 127.0.0.1:5000
 waitress==2.1.2
 beautifulsoup4==4.14.3
+requests==2.31.0

@@ -1,4 +1,5 @@
 from collections import Counter
+from waitress import serve
 # from cltk.lexicon.lat import LatinLexicon
 import flask
 import requests
@@ -105,4 +106,4 @@ def NLHS_check_guess(guess):
     return {"result": result}
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=5000, debug=False)
+    serve(app, host='0.0.0.0', port=5000)
