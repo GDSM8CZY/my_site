@@ -1,9 +1,7 @@
 from collections import Counter
 from waitress import serve
-# from cltk.lexicon.lat import LatinLexicon
 import flask
 import requests
-from bs4 import BeautifulSoup
 import csv
 import random
 
@@ -41,9 +39,6 @@ def is_latin(word):
     :param word: The word to check
     :return: True if the word is latin, False otherwise
     '''
-    # Testing using CLTK's LatinLexicon
-    # latin_dict = LatinLexicon()
-    # return word in latin_dict.words
     url = f"https://latin-words.com/cgi-bin/translate.cgi?query={word}"
     response = requests.get(url)
     data = response.json()
