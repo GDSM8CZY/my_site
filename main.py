@@ -4,6 +4,7 @@ import flask
 import requests
 import csv
 import random
+import datetime
 
 app = flask.Flask(__name__)
 
@@ -20,6 +21,8 @@ def pick_latin_word():
 
         
     word_list = list(word_dict.keys())
+
+    random.seed(datetime.date.today().toordinal())  # Seed with today's date for daily word
 
     word = random.choice(word_list).replace('#', '')
     deff = word_dict[word][1] + "; " + word_dict[word][0]
