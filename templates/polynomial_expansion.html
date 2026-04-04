@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}Polynomial expansion{% endblock %}
+{% block extras %}
+<link rel="stylesheet" href="{{ url_for('static', filename='style/polynomial_expansion.css') }}">
+{% endblock %}
+{% block content %}
+<input type="text" id="input" placeholder="Enter a polynomial expression (e.g., (x+y)^2)" autocomplete="off">
+<button onclick="get_polynomial_expansion()">Expand</button>
+<div id="result"></div>
+<script src="{{ url_for('static', filename='src/polynomial_expansion.js') }}"></script>
+{% endblock %}

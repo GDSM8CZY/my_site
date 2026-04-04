@@ -10,6 +10,7 @@
         <ul>
             <li><a class="nav_btn" href="{{ url_for('home') }}">Home</a></li>
             <li><a class="nav_btn" href="{{ url_for('latin_wordle') }}">Latin wordle</a></li>
+            <li><a class="nav_btn" href="{{ url_for('polynomial_expansion') }}">Polynomial expansion</a></li>
         </ul>
         <h1>{{ self.title() }}</h1>
         {% block content %} {% endblock %}

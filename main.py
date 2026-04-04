@@ -108,4 +108,5 @@ def polynomial_expansion():
     return flask.render_template("polynomial_expansion.html")
 
 if __name__ == "__main__":
-    serve(app, host='0.0.0.0', port=5000)
+    app.run(debug=True)
+    # serve(app, host='0.0.0.0', port=5000)
