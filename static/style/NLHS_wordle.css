@@ -5,6 +5,15 @@
     gap: 20px;
 }
 
+summary {
+    color: #ebd5ab;
+    align-self: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: larger;
+    margin: 10px;
+}
+
 .row {
     display: flex;
     gap: 10px;
