@@ -4,9 +4,10 @@
 <link rel="stylesheet" href="{{ url_for('static', filename='style/NLHS_wordle.css') }}">
 {% endblock %}
 {% block content %}
-<div class="text_zone">
+<details class="text_zone">
+    <summary>Definition</summary>
     <p id="deff"></p>
-</div>
+</details>
 <div id="guesses">
     {% for row in grid%}
         <div class="row" id="{{ row[0][0:2] }}">
